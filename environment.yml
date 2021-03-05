@@ -2,6 +2,7 @@ channels:
 - conda-forge
 - gimli
 - defaults
+- pip
 dependencies:
 - matplotlib
 - pygimli
@@ -10,3 +11,4 @@ dependencies:
 - pyvista
 - itkwidgets
 - ipywidgets
+- ipyvtk-simple
