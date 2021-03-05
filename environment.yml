@@ -8,4 +8,5 @@ dependencies:
 - pybert
 - seaborn
 - pyvista
-- ipyvtk-simple 
+- itkwidgets
+- ipywidgets
