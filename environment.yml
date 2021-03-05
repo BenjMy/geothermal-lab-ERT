@@ -8,4 +8,4 @@ dependencies:
 - pybert
 - seaborn
 - pyvista
-- ipyvtk_simple 
+- ipyvtk-simple 
