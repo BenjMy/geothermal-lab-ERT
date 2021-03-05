@@ -1,0 +1,6528 @@
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   4	   3	 34.6624111
+  3	   4	   2	   1	 34.1913067
+res media(Ohm)	34.4268589
+errore da media(<0.1)	0.0136842
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   5	   4	 3.9879020
+  4	   5	   2	   1	 4.1712709
+res media(Ohm)	4.0795864
+errore da media(<0.1)	0.0449479
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   6	   5	 2.5135715
+  5	   6	   2	   1	 2.2262758
+res media(Ohm)	2.3699236
+errore da media(>0.1)	0.1212257
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   7	   6	 1.1611136
+  6	   7	   2	   1	 1.1182341
+res media(Ohm)	1.1396739
+errore da media(<0.1)	0.0376244
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   8	   7	 0.1647037
+  7	   8	   2	   1	 0.1243362
+res media(Ohm)	0.1445199
+errore da media(>0.1)	0.2793210
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	   9	   8	 0.1610240	quad rif!
+  8	   9	   1	   2	 0.1880708
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  10	   9	 0.1426546
+  9	  10	   2	   1	 0.1031304
+res media(Ohm)	0.1228925
+errore da media(>0.1)	0.3216161
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  10	  11	 0.0471985	quad rif!
+ 10	  11	   2	   1	 0.1611880
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  12	  11	 0.3332341
+ 11	  12	   2	   1	 0.3603920
+res media(Ohm)	0.3468131
+errore da media(<0.1)	0.0783070
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  12	  13	 0.1771280	quad rif!
+ 12	  13	   2	   1	 0.1283500
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  13	  14	 0.0891082
+ 13	  14	   1	   2	 0.0516878
+res media(Ohm)	0.0703980
+errore da media(>0.1)	0.5315557
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  14	  15	 0.1274461
+ 14	  15	   1	   2	 0.1177820
+res media(Ohm)	0.1226140
+errore da media(<0.1)	0.0788170
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  15	  16	 0.0933264
+ 15	  16	   1	   2	 0.0946173
+res media(Ohm)	0.0939718
+errore da media(<0.1)	0.0137368
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  17	  16	 0.0190833
+ 16	  17	   2	   1	 0.0305896
+res media(Ohm)	0.0248365
+errore da media(>0.1)	0.4632840
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  18	  17	 0.0075547
+ 17	  18	   2	   1	 0.0076122
+res media(Ohm)	0.0075834
+errore da media(<0.1)	0.0075842
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  19	  18	 0.1228124
+ 18	  19	   2	   1	 0.1410161
+res media(Ohm)	0.1319142
+errore da media(>0.1)	0.1379961
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  20	  19	 0.0538975
+ 19	  20	   2	   1	 0.0589824
+res media(Ohm)	0.0564400
+errore da media(<0.1)	0.0900933
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  21	  20	 0.0477288
+ 20	  21	   2	   1	 0.0427097
+res media(Ohm)	0.0452193
+errore da media(>0.1)	0.1109951
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  22	  21	 0.7094183
+ 21	  22	   2	   1	 0.7182190
+res media(Ohm)	0.7138186
+errore da media(<0.1)	0.0123291
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  23	  22	 1.6340493
+ 22	  23	   2	   1	 1.6410778
+res media(Ohm)	1.6375635
+errore da media(<0.1)	0.0042921
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  24	  23	 2.9998732
+ 23	  24	   2	   1	 2.9240732
+res media(Ohm)	2.9619732
+errore da media(<0.1)	0.0255911
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  24	  25	 3.2166763
+ 24	  25	   1	   2	 3.1805218
+res media(Ohm)	3.1985990
+errore da media(<0.1)	0.0113032
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  25	  26	 1.1993272
+ 25	  26	   1	   2	 1.1560984
+res media(Ohm)	1.1777128
+errore da media(<0.1)	0.0367058
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  26	  27	 0.8070392
+ 26	  27	   1	   2	 0.8058373
+res media(Ohm)	0.8064382
+errore da media(<0.1)	0.0014904
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  27	  28	 0.2935772
+ 27	  28	   1	   2	 0.3029974
+res media(Ohm)	0.2982873
+errore da media(<0.1)	0.0315810
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  29	  28	 0.0257636
+ 28	  29	   2	   1	 0.0385291
+res media(Ohm)	0.0321464
+errore da media(>0.1)	0.3971057
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  30	  29	 0.0110810
+ 29	  30	   2	   1	 0.0157665
+res media(Ohm)	0.0134237
+errore da media(>0.1)	0.3490482
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  30	  31	 0.1241448
+ 30	  31	   1	   2	 0.1372266
+res media(Ohm)	0.1306857
+errore da media(>0.1)	0.1001013
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  32	  31	 0.0153738
+ 31	  32	   2	   1	 0.0196734
+res media(Ohm)	0.0175236
+errore da media(>0.1)	0.2453579
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  33	  32	 0.0176978
+ 32	  33	   2	   1	 0.0138785
+res media(Ohm)	0.0157882
+errore da media(>0.1)	0.2419100
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  34	  33	 0.1097486
+ 33	  34	   2	   1	 0.1025217
+res media(Ohm)	0.1061352
+errore da media(<0.1)	0.0680921
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  35	  34	 0.1140072
+ 34	  35	   2	   1	 0.0938093
+res media(Ohm)	0.1039082
+errore da media(>0.1)	0.1943820
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  36	  35	 0.0666407
+ 35	  36	   2	   1	 0.0192654
+res media(Ohm)	0.0429531
+errore da media(>0.1)	1.1029545
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  36	  37	 0.0059347	quad rif!
+ 36	  37	   2	   1	 0.0171863
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  37	  38	 0.0731235
+ 37	  38	   1	   2	 0.0384592
+res media(Ohm)	0.0557914
+errore da media(>0.1)	0.6213194
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  38	  39	 0.1218113
+ 38	  39	   1	   2	 0.1059457
+res media(Ohm)	0.1138785
+errore da media(>0.1)	0.1393198
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  39	  40	 0.0816152
+ 39	  40	   1	   2	 0.0818903
+res media(Ohm)	0.0817528
+errore da media(<0.1)	0.0033653
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  40	  41	 0.0021451	quad rif!
+ 40	  41	   2	   1	 0.0069207
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  42	  41	 0.0066698
+ 41	  42	   2	   1	 0.0068858
+res media(Ohm)	0.0067778
+errore da media(<0.1)	0.0318765
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  43	  42	 0.1433890
+ 42	  43	   2	   1	 0.1647930
+res media(Ohm)	0.1540910
+errore da media(>0.1)	0.1389046
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  44	  43	 0.1104476
+ 43	  44	   2	   1	 0.1114869
+res media(Ohm)	0.1109673
+errore da media(<0.1)	0.0093662
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  45	  44	 0.1545943
+ 44	  45	   2	   1	 0.1524348
+res media(Ohm)	0.1535145
+errore da media(<0.1)	0.0140666
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  46	  45	 0.9108245
+ 45	  46	   2	   1	 0.9229330
+res media(Ohm)	0.9168788
+errore da media(<0.1)	0.0132062
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  47	  46	 1.9361804
+ 46	  47	   2	   1	 1.9850777
+res media(Ohm)	1.9606291
+errore da media(<0.1)	0.0249396
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  1	   2	  48	  47	 4.1131034
+ 47	  48	   2	   1	 4.1389419
+res media(Ohm)	4.1260227
+errore da media(<0.1)	0.0062623
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   5	   4	 19.6325531
+  4	   5	   3	   2	 19.6833404
+res media(Ohm)	19.6579467
+errore da media(<0.1)	0.0025835
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   6	   5	 0.5652261
+  5	   6	   3	   2	 0.7764041
+res media(Ohm)	0.6708151
+errore da media(>0.1)	0.3148080
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   6	   7	 0.8096893
+  6	   7	   2	   3	 0.8154156
+res media(Ohm)	0.8125524
+errore da media(<0.1)	0.0070473
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   7	   8	 0.0356840
+  7	   8	   2	   3	 0.0076057
+res media(Ohm)	0.0216449
+errore da media(>0.1)	1.2972312
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   9	   8	 0.0672798
+  8	   9	   3	   2	 0.3875325
+res media(Ohm)	0.2274061
+errore da media(>0.1)	1.4082855
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  10	   9	 0.5339703
+  9	  10	   3	   2	 0.5472825
+res media(Ohm)	0.5406264
+errore da media(<0.1)	0.0246236
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  11	  10	 0.1949561
+ 10	  11	   3	   2	 0.0824720
+res media(Ohm)	0.1387141
+errore da media(>0.1)	0.8109069
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  12	  11	 0.6352157
+ 11	  12	   3	   2	 0.6892469
+res media(Ohm)	0.6622313
+errore da media(<0.1)	0.0815896
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  12	  13	 1.2295418
+ 12	  13	   2	   3	 1.3451444
+res media(Ohm)	1.2873431
+errore da media(<0.1)	0.0897994
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  13	  14	 0.2064721
+ 13	  14	   2	   3	 0.1388151
+res media(Ohm)	0.1726436
+errore da media(>0.1)	0.3918885
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  14	  15	 0.2272596
+ 14	  15	   2	   3	 0.2050060
+res media(Ohm)	0.2161328
+errore da media(>0.1)	0.1029624
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  15	  16	 0.1477719
+ 15	  16	   2	   3	 0.1409879
+res media(Ohm)	0.1443799
+errore da media(<0.1)	0.0469869
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  17	  16	 0.0112759
+ 16	  17	   3	   2	 0.0232934
+res media(Ohm)	0.0172847
+errore da media(>0.1)	0.6952736
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  17	  18	 0.0121406
+ 17	  18	   2	   3	 0.0130746
+res media(Ohm)	0.0126076
+errore da media(<0.1)	0.0740851
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  19	  18	 0.1186892
+ 18	  19	   3	   2	 0.1326952
+res media(Ohm)	0.1256922
+errore da media(>0.1)	0.1114317
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  20	  19	 0.0306109
+ 19	  20	   3	   2	 0.0327975
+res media(Ohm)	0.0317042
+errore da media(<0.1)	0.0689680
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  21	  20	 0.0197501
+ 20	  21	   3	   2	 0.0130361
+res media(Ohm)	0.0163931
+errore da media(>0.1)	0.4095609
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  22	  21	 0.6506113
+ 21	  22	   3	   2	 0.6545248
+res media(Ohm)	0.6525681
+errore da media(<0.1)	0.0059972
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  23	  22	 1.4275998
+ 22	  23	   3	   2	 1.4270530
+res media(Ohm)	1.4273264
+errore da media(<0.1)	0.0003831
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  24	  23	 1.9594968
+ 23	  24	   3	   2	 1.8968222
+res media(Ohm)	1.9281595
+errore da media(<0.1)	0.0325049
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  24	  25	 2.3744537
+ 24	  25	   2	   3	 2.3478684
+res media(Ohm)	2.3611611
+errore da media(<0.1)	0.0112594
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  25	  26	 0.8998098
+ 25	  26	   2	   3	 0.8545892
+res media(Ohm)	0.8771995
+errore da media(<0.1)	0.0515511
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  26	  27	 0.6843540
+ 26	  27	   2	   3	 0.6757854
+res media(Ohm)	0.6800697
+errore da media(<0.1)	0.0125995
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  27	  28	 0.2557074
+ 27	  28	   2	   3	 0.2603504
+res media(Ohm)	0.2580289
+errore da media(<0.1)	0.0179941
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  29	  28	 0.0370591
+ 28	  29	   3	   2	 0.0482249
+res media(Ohm)	0.0426420
+errore da media(>0.1)	0.2618502
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  30	  29	 0.0278296
+ 29	  30	   3	   2	 0.0320387
+res media(Ohm)	0.0299341
+errore da media(>0.1)	0.1406121
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  30	  31	 0.1138935
+ 30	  31	   2	   3	 0.1257631
+res media(Ohm)	0.1198283
+errore da media(<0.1)	0.0990556
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  32	  31	 0.0342269
+ 31	  32	   3	   2	 0.0375534
+res media(Ohm)	0.0358902
+errore da media(<0.1)	0.0926836
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  33	  32	 0.0362383
+ 32	  33	   3	   2	 0.0290116
+res media(Ohm)	0.0326249
+errore da media(>0.1)	0.2215078
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  34	  33	 0.1588851
+ 33	  34	   3	   2	 0.1434509
+res media(Ohm)	0.1511680
+errore da media(>0.1)	0.1020997
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  35	  34	 0.1957688
+ 34	  35	   3	   2	 0.1610671
+res media(Ohm)	0.1784180
+errore da media(>0.1)	0.1944964
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  36	  35	 0.1613620
+ 35	  36	   3	   2	 0.0862474
+res media(Ohm)	0.1238047
+errore da media(>0.1)	0.6067185
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  37	  36	 0.4002494
+ 36	  37	   3	   2	 0.4192837
+res media(Ohm)	0.4097666
+errore da media(<0.1)	0.0464514
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  37	  38	 0.1140047
+ 37	  38	   2	   3	 0.0581412
+res media(Ohm)	0.0860729
+errore da media(>0.1)	0.6490254
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  38	  39	 0.3403760
+ 38	  39	   2	   3	 0.3128801
+res media(Ohm)	0.3266280
+errore da media(<0.1)	0.0841811
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  39	  40	 0.2510659
+ 39	  40	   2	   3	 0.2458439
+res media(Ohm)	0.2484549
+errore da media(<0.1)	0.0210181
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  40	  41	 0.0060767	quad rif!
+ 40	  41	   3	   2	 0.0104382
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  41	  42	 0.0007096
+ 41	  42	   2	   3	 0.0063233
+res media(Ohm)	0.0035164
+errore da media(>0.1)	1.5964194
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  43	  42	 0.2797929
+ 42	  43	   3	   2	 0.3052115
+res media(Ohm)	0.2925022
+errore da media(<0.1)	0.0869003
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  44	  43	 0.1614996
+ 43	  44	   3	   2	 0.1566386
+res media(Ohm)	0.1590691
+errore da media(<0.1)	0.0305590
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  45	  44	 0.2349806
+ 44	  45	   3	   2	 0.2105871
+res media(Ohm)	0.2227839
+errore da media(>0.1)	0.1094940
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  46	  45	 1.6253975
+ 45	  46	   3	   2	 1.6121973
+res media(Ohm)	1.6187974
+errore da media(<0.1)	0.0081543
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  47	  46	 2.3375496
+ 46	  47	   3	   2	 2.3751393
+res media(Ohm)	2.3563444
+errore da media(<0.1)	0.0159526
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	  48	  47	 2.1009719
+ 47	  48	   3	   2	 2.0731522
+res media(Ohm)	2.0870621
+errore da media(<0.1)	0.0133296
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  2	   3	   1	  48	 43.9524199
+  1	  48	   2	   3	 44.2279879
+res media(Ohm)	44.0902039
+errore da media(<0.1)	0.0062501
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	   1	  48	 10.0908015
+  1	  48	   3	   4	 10.0877635
+res media(Ohm)	10.0892825
+errore da media(<0.1)	0.0003011
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  48	  47	 0.8263834
+ 47	  48	   4	   3	 0.7549726
+res media(Ohm)	0.7906780
+errore da media(<0.1)	0.0903160
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  47	  46	 1.2293546
+ 46	  47	   4	   3	 1.2125740
+res media(Ohm)	1.2209643
+errore da media(<0.1)	0.0137437
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  46	  45	 0.9208196
+ 45	  46	   4	   3	 0.8875069
+res media(Ohm)	0.9041633
+errore da media(<0.1)	0.0368437
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  45	  44	 0.1174947
+ 44	  45	   4	   3	 0.1088690
+res media(Ohm)	0.1131818
+errore da media(<0.1)	0.0762112
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  44	  43	 0.0853076
+ 43	  44	   4	   3	 0.0821463
+res media(Ohm)	0.0837269
+errore da media(<0.1)	0.0377568
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  43	  42	 0.1571914
+ 42	  43	   4	   3	 0.1723415
+res media(Ohm)	0.1647665
+errore da media(<0.1)	0.0919488
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  41	  42	 0.0038638
+ 41	  42	   3	   4	 0.0049112
+res media(Ohm)	0.0043875
+errore da media(>0.1)	0.2387166
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  40	  41	 0.0050153	quad rif!
+ 40	  41	   4	   3	 0.0063883
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	   6	   5	 4.1896794
+  5	   6	   4	   3	 4.1256814
+res media(Ohm)	4.1576804
+errore da media(<0.1)	0.0153927
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	   6	   7	 0.5810651
+  6	   7	   3	   4	 0.5250299
+res media(Ohm)	0.5530475
+errore da media(>0.1)	0.1013208
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	   7	   8	 0.0982599
+  7	   8	   3	   4	 0.0657151
+res media(Ohm)	0.0819875
+errore da media(>0.1)	0.3969479
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	   8	   9	 0.1071189
+  8	   9	   3	   4	 0.0759927
+res media(Ohm)	0.0915558
+errore da media(>0.1)	0.3399697
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  10	   9	 0.2602580
+  9	  10	   4	   3	 0.2458836
+res media(Ohm)	0.2530708
+errore da media(<0.1)	0.0567998
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  11	  10	 0.3364774
+ 10	  11	   4	   3	 0.2805802
+res media(Ohm)	0.3085288
+errore da media(>0.1)	0.1811734
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  12	  11	 0.4496917	quad rif!
+ 11	  12	   3	   4	 0.1692801
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  12	  13	 0.8375079
+ 12	  13	   3	   4	 0.6477390
+res media(Ohm)	0.7426234
+errore da media(>0.1)	0.2555385
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  13	  14	 0.1263296
+ 13	  14	   3	   4	 0.0772276
+res media(Ohm)	0.1017786
+errore da media(>0.1)	0.4824392
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  14	  15	 0.1313761
+ 14	  15	   3	   4	 0.1084319
+res media(Ohm)	0.1199040
+errore da media(>0.1)	0.1913541
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  15	  16	 0.0804707
+ 15	  16	   3	   4	 0.0723560
+res media(Ohm)	0.0764133
+errore da media(>0.1)	0.1061938
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  17	  16	 0.0014882
+ 16	  17	   4	   3	 0.0091722
+res media(Ohm)	0.0053302
+errore da media(>0.1)	1.4415954
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  17	  18	 0.0114350
+ 17	  18	   3	   4	 0.0101066
+res media(Ohm)	0.0107708
+errore da media(>0.1)	0.1233305
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  19	  18	 0.0500651
+ 18	  19	   4	   3	 0.0562750
+res media(Ohm)	0.0531701
+errore da media(>0.1)	0.1167945
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  20	  19	 0.0077013
+ 19	  20	   4	   3	 0.0091579
+res media(Ohm)	0.0084296
+errore da media(>0.1)	0.1727939
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  21	  20	 0.0021902	quad rif!
+ 20	  21	   3	   4	 0.0001240
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  22	  21	 0.2759508
+ 21	  22	   4	   3	 0.2721299
+res media(Ohm)	0.2740404
+errore da media(<0.1)	0.0139431
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  23	  22	 0.5830934
+ 22	  23	   4	   3	 0.5740541
+res media(Ohm)	0.5785738
+errore da media(<0.1)	0.0156234
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  24	  23	 0.7509446
+ 23	  24	   4	   3	 0.7126407
+res media(Ohm)	0.7317927
+errore da media(<0.1)	0.0523425
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  24	  25	 0.8315388
+ 24	  25	   3	   4	 0.8262260
+res media(Ohm)	0.8288824
+errore da media(<0.1)	0.0064096
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  25	  26	 0.4079267
+ 25	  26	   3	   4	 0.3727029
+res media(Ohm)	0.3903148
+errore da media(<0.1)	0.0902446
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  26	  27	 0.3204182
+ 26	  27	   3	   4	 0.3031567
+res media(Ohm)	0.3117875
+errore da media(<0.1)	0.0553630
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  27	  28	 0.1194243
+ 27	  28	   3	   4	 0.1165567
+res media(Ohm)	0.1179905
+errore da media(<0.1)	0.0243034
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  29	  28	 0.0201953
+ 28	  29	   4	   3	 0.0242623
+res media(Ohm)	0.0222288
+errore da media(>0.1)	0.1829613
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  30	  29	 0.0168342
+ 29	  30	   4	   3	 0.0177363
+res media(Ohm)	0.0172852
+errore da media(<0.1)	0.0521891
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  30	  31	 0.0539973
+ 30	  31	   3	   4	 0.0573385
+res media(Ohm)	0.0556679
+errore da media(<0.1)	0.0600216
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  32	  31	 0.0207506
+ 31	  32	   4	   3	 0.0208356
+res media(Ohm)	0.0207931
+errore da media(<0.1)	0.0040851
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  33	  32	 0.0212563
+ 32	  33	   4	   3	 0.0164173
+res media(Ohm)	0.0188368
+errore da media(>0.1)	0.2568869
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  34	  33	 0.0885747
+ 33	  34	   4	   3	 0.0746009
+res media(Ohm)	0.0815878
+errore da media(>0.1)	0.1712733
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  35	  34	 0.1141718
+ 34	  35	   4	   3	 0.0877464
+res media(Ohm)	0.1009591
+errore da media(>0.1)	0.2617439
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  36	  35	 0.1079639
+ 35	  36	   4	   3	 0.0531084
+res media(Ohm)	0.0805361
+errore da media(>0.1)	0.6811282
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  37	  36	 0.2673064
+ 36	  37	   4	   3	 0.2829569
+res media(Ohm)	0.2751316
+errore da media(<0.1)	0.0568837
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  37	  38	 0.0702413
+ 37	  38	   3	   4	 0.0282539
+res media(Ohm)	0.0492476
+errore da media(>0.1)	0.8525765
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  38	  39	 0.2117056
+ 38	  39	   3	   4	 0.1864680
+res media(Ohm)	0.1990868
+errore da media(>0.1)	0.1267668
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  3	   4	  39	  40	 0.1568437
+ 39	  40	   3	   4	 0.1478932
+res media(Ohm)	0.1523685
+errore da media(<0.1)	0.0587424
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   3	   6	 46.7239066
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   7	   6	 20.4660628
+  6	   7	   5	   4	 20.4056566
+res media(Ohm)	20.4358597
+errore da media(<0.1)	0.0029559
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   8	   7	 1.3379199
+  7	   8	   5	   4	 1.1071934
+res media(Ohm)	1.2225566
+errore da media(>0.1)	0.1887246
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   9	   8	 0.2552687
+  8	   9	   5	   4	 0.1831818
+res media(Ohm)	0.2192252
+errore da media(>0.1)	0.3288257
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   9	  10	 0.3844900
+  9	  10	   4	   5	 0.4268764
+res media(Ohm)	0.4056832
+errore da media(>0.1)	0.1044816
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  11	  10	 0.0081033
+ 10	  11	   5	   4	 0.0306351
+res media(Ohm)	0.0193692
+errore da media(>0.1)	1.1632813
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  11	  12	 0.5399449
+ 11	  12	   4	   5	 0.1885153
+res media(Ohm)	0.3642301
+errore da media(>0.1)	0.9648560
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  13	  12	 1.3209471
+ 12	  13	   5	   4	 1.0426881
+res media(Ohm)	1.1818176
+errore da media(>0.1)	0.2354500
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  14	  13	 0.1066541
+ 13	  14	   5	   4	 0.0676791
+res media(Ohm)	0.0871666
+errore da media(>0.1)	0.4471322
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  15	  14	 0.0944379
+ 14	  15	   5	   4	 0.0749665
+res media(Ohm)	0.0847022
+errore da media(>0.1)	0.2298809
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  16	  15	 0.0514109
+ 15	  16	   5	   4	 0.0421726
+res media(Ohm)	0.0467918
+errore da media(>0.1)	0.1974349
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  17	  16	 0.0059882
+ 16	  17	   5	   4	 0.0025549
+res media(Ohm)	0.0042715
+errore da media(>0.1)	0.8037516
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  18	  17	 0.0157626
+ 17	  18	   5	   4	 0.0139166
+res media(Ohm)	0.0148396
+errore da media(>0.1)	0.1243960
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  18	  19	 0.0048335
+ 18	  19	   4	   5	 0.0064029
+res media(Ohm)	0.0056182
+errore da media(>0.1)	0.2793369
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  20	  19	 0.0086030
+ 19	  20	   5	   4	 0.0081371
+res media(Ohm)	0.0083700
+errore da media(<0.1)	0.0556686
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  21	  20	 0.0099634
+ 20	  21	   5	   4	 0.0099638
+res media(Ohm)	0.0099636
+errore da media(<0.1)	0.0000373
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  21	  22	 0.0355875
+ 21	  22	   4	   5	 0.0312092
+res media(Ohm)	0.0333984
+errore da media(>0.1)	0.1310926
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  22	  23	 0.0516485
+ 22	  23	   4	   5	 0.0436949
+res media(Ohm)	0.0476717
+errore da media(>0.1)	0.1668410
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  23	  24	 0.0300194
+ 23	  24	   4	   5	 0.0195609
+res media(Ohm)	0.0247901
+errore da media(>0.1)	0.4218813
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  25	  24	 0.0135429
+ 24	  25	   5	   4	 0.0118967
+res media(Ohm)	0.0127198
+errore da media(>0.1)	0.1294235
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  26	  25	 0.0427061
+ 25	  26	   5	   4	 0.0323370
+res media(Ohm)	0.0375215
+errore da media(>0.1)	0.2763499
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  27	  26	 0.0482970
+ 26	  27	   5	   4	 0.0394232
+res media(Ohm)	0.0438601
+errore da media(>0.1)	0.2023215
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  28	  27	 0.0200535
+ 27	  28	   5	   4	 0.0172133
+res media(Ohm)	0.0186334
+errore da media(>0.1)	0.1524235
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  28	  29	 0.0080385
+ 28	  29	   4	   5	 0.0080121
+res media(Ohm)	0.0080253
+errore da media(<0.1)	0.0032921
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  29	  30	 0.0097078
+ 29	  30	   4	   5	 0.0087397
+res media(Ohm)	0.0092238
+errore da media(>0.1)	0.1049558
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  31	  30	 0.0096927
+ 30	  31	   5	   4	 0.0096434
+res media(Ohm)	0.0096680
+errore da media(<0.1)	0.0050959
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  31	  32	 0.0132839
+ 31	  32	   4	   5	 0.0115461
+res media(Ohm)	0.0124150
+errore da media(>0.1)	0.1399708
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  32	  33	 0.0140213
+ 32	  33	   4	   5	 0.0105276
+res media(Ohm)	0.0122744
+errore da media(>0.1)	0.2846325
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  33	  34	 0.0453318
+ 33	  34	   4	   5	 0.0345964
+res media(Ohm)	0.0399641
+errore da media(>0.1)	0.2686261
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  34	  35	 0.0676063
+ 34	  35	   4	   5	 0.0484148
+res media(Ohm)	0.0580106
+errore da media(>0.1)	0.3308270
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  35	  36	 0.0830115
+ 35	  36	   4	   5	 0.0457582
+res media(Ohm)	0.0643849
+errore da media(>0.1)	0.5786046
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  36	  37	 0.2431428
+ 36	  37	   4	   5	 0.2658807
+res media(Ohm)	0.2545118
+errore da media(<0.1)	0.0893396
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  38	  37	 0.0694878
+ 37	  38	   5	   4	 0.0441361
+res media(Ohm)	0.0568119
+errore da media(>0.1)	0.4462379
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  39	  38	 0.1560806
+ 38	  39	   5	   4	 0.1442650
+res media(Ohm)	0.1501728
+errore da media(<0.1)	0.0786798
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  40	  39	 0.1092594
+ 39	  40	   5	   4	 0.1046585
+res media(Ohm)	0.1069590
+errore da media(<0.1)	0.0430163
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  41	  40	 0.0197985
+ 40	  41	   5	   4	 0.0140671
+res media(Ohm)	0.0169328
+errore da media(>0.1)	0.3384775
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  42	  41	 0.0294484
+ 41	  42	   5	   4	 0.0296473
+res media(Ohm)	0.0295478
+errore da media(<0.1)	0.0067327
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  42	  43	 0.0088262
+ 42	  43	   4	   5	 0.0134796
+res media(Ohm)	0.0111529
+errore da media(>0.1)	0.4172371
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  44	  43	 0.0214131
+ 43	  44	   5	   4	 0.0217077
+res media(Ohm)	0.0215604
+errore da media(<0.1)	0.0136648
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  45	  44	 0.0277708
+ 44	  45	   5	   4	 0.0289445
+res media(Ohm)	0.0283576
+errore da media(<0.1)	0.0413903
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  45	  46	 0.0498791
+ 45	  46	   4	   5	 0.0438595
+res media(Ohm)	0.0468693
+errore da media(>0.1)	0.1284346
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  46	  47	 0.0572796
+ 46	  47	   4	   5	 0.0489306
+res media(Ohm)	0.0531051
+errore da media(>0.1)	0.1572173
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	  47	  48	 0.0059899	quad rif!
+ 47	  48	   5	   4	 0.0046376
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  4	   5	   1	  48	 0.4117113
+  1	  48	   4	   5	 0.3770252
+res media(Ohm)	0.3943683
+errore da media(<0.1)	0.0879534
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	   4	   7	 20.4276822
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	   8	   7	 8.8206972
+  7	   8	   6	   5	 8.0929286
+res media(Ohm)	8.4568129
+errore da media(<0.1)	0.0860571
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	   9	   8	 1.9420038
+  8	   9	   6	   5	 1.7498496
+res media(Ohm)	1.8459267
+errore da media(>0.1)	0.1040963
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	   9	  10	 0.3501935
+  9	  10	   5	   6	 0.2813801
+res media(Ohm)	0.3157868
+errore da media(>0.1)	0.2179112
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  10	  11	 0.2907485
+ 10	  11	   5	   6	 0.3472578
+res media(Ohm)	0.3190032
+errore da media(>0.1)	0.1771432
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  12	  11	 0.7405745	quad rif!
+ 11	  12	   5	   6	 0.0151274
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  13	  12	 0.3875865
+ 12	  13	   6	   5	 0.0364106
+res media(Ohm)	0.2119986
+errore da media(>0.1)	1.6565011
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  14	  13	 0.1581352
+ 13	  14	   6	   5	 0.1002897
+res media(Ohm)	0.1292125
+errore da media(>0.1)	0.4476774
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  15	  14	 0.1363947
+ 14	  15	   6	   5	 0.1048265
+res media(Ohm)	0.1206106
+errore da media(>0.1)	0.2617372
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  16	  15	 0.0714834
+ 15	  16	   6	   5	 0.0557256
+res media(Ohm)	0.0636045
+errore da media(>0.1)	0.2477463
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  17	  16	 0.0122328
+ 16	  17	   6	   5	 0.0073738
+res media(Ohm)	0.0098033
+errore da media(>0.1)	0.4956576
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  18	  17	 0.0254322
+ 17	  18	   6	   5	 0.0215525
+res media(Ohm)	0.0234924
+errore da media(>0.1)	0.1651500
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  19	  18	 0.0030658
+ 18	  19	   6	   5	 0.0020050
+res media(Ohm)	0.0025354
+errore da media(>0.1)	0.4183958
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  20	  19	 0.0123824
+ 19	  20	   6	   5	 0.0110066
+res media(Ohm)	0.0116945
+errore da media(>0.1)	0.1176435
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  21	  20	 0.0113328
+ 20	  21	   6	   5	 0.0105397
+res media(Ohm)	0.0109362
+errore da media(<0.1)	0.0725210
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  21	  22	 0.0202699
+ 21	  22	   5	   6	 0.0120973
+res media(Ohm)	0.0161836
+errore da media(>0.1)	0.5049924
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  22	  23	 0.0175115
+ 22	  23	   5	   6	 0.0025362
+res media(Ohm)	0.0100238
+errore da media(>0.1)	1.4939677
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  24	  23	 0.0162640
+ 23	  24	   6	   5	 0.0299330
+res media(Ohm)	0.0230985
+errore da media(>0.1)	0.5917679
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  24	  25	 0.0400750
+ 24	  25	   5	   6	 0.0490143
+res media(Ohm)	0.0445447
+errore da media(>0.1)	0.2006822
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  26	  25	 0.0162833
+ 25	  26	   6	   5	 0.0051925
+res media(Ohm)	0.0107379
+errore da media(>0.1)	1.0328716
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  27	  26	 0.0320132
+ 26	  27	   6	   5	 0.0200755
+res media(Ohm)	0.0260443
+errore da media(>0.1)	0.4583615
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  28	  27	 0.0148736
+ 27	  28	   6	   5	 0.0102640
+res media(Ohm)	0.0125688
+errore da media(>0.1)	0.3667461
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  28	  29	 0.0093173
+ 28	  29	   5	   6	 0.0081162
+res media(Ohm)	0.0087168
+errore da media(>0.1)	0.1377950
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  29	  30	 0.0120927
+ 29	  30	   5	   6	 0.0101774
+res media(Ohm)	0.0111351
+errore da media(>0.1)	0.1720083
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  31	  30	 0.0068558
+ 30	  31	   6	   5	 0.0061265
+res media(Ohm)	0.0064912
+errore da media(>0.1)	0.1123594
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  31	  32	 0.0181391
+ 31	  32	   5	   6	 0.0147564
+res media(Ohm)	0.0164477
+errore da media(>0.1)	0.2056616
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  32	  33	 0.0198076
+ 32	  33	   5	   6	 0.0141024
+res media(Ohm)	0.0169550
+errore da media(>0.1)	0.3364875
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  33	  34	 0.0589324
+ 33	  34	   5	   6	 0.0427007
+res media(Ohm)	0.0508165
+errore da media(>0.1)	0.3194174
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  34	  35	 0.0927247
+ 34	  35	   5	   6	 0.0634258
+res media(Ohm)	0.0780753
+errore da media(>0.1)	0.3752660
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  35	  36	 0.1207955
+ 35	  36	   5	   6	 0.0667305
+res media(Ohm)	0.0937630
+errore da media(>0.1)	0.5766126
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  36	  37	 0.4187500
+ 36	  37	   5	   6	 0.4147364
+res media(Ohm)	0.4167432
+errore da media(<0.1)	0.0096308
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  38	  37	 0.1054538
+ 37	  38	   6	   5	 0.0608690
+res media(Ohm)	0.0831614
+errore da media(>0.1)	0.5361235
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  39	  38	 0.2476800
+ 38	  39	   6	   5	 0.2173094
+res media(Ohm)	0.2324947
+errore da media(>0.1)	0.1306289
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  40	  39	 0.1724134
+ 39	  40	   6	   5	 0.1559926
+res media(Ohm)	0.1642030
+errore da media(>0.1)	0.1000033
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  41	  40	 0.0408820
+ 40	  41	   6	   5	 0.0304337
+res media(Ohm)	0.0356579
+errore da media(>0.1)	0.2930160
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  42	  41	 0.0576795
+ 41	  42	   6	   5	 0.0544790
+res media(Ohm)	0.0560793
+errore da media(<0.1)	0.0570706
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  43	  42	 0.0161505
+ 42	  43	   6	   5	 0.0120371
+res media(Ohm)	0.0140938
+errore da media(>0.1)	0.2918541
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  44	  43	 0.0424271
+ 43	  44	   6	   5	 0.0408403
+res media(Ohm)	0.0416337
+errore da media(<0.1)	0.0381150
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  45	  44	 0.0437542
+ 44	  45	   6	   5	 0.0442616
+res media(Ohm)	0.0440079
+errore da media(<0.1)	0.0115306
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  46	  45	 0.0044808
+ 45	  46	   6	   5	 0.0214682
+res media(Ohm)	0.0129745
+errore da media(>0.1)	1.3092896
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  47	  46	 0.0127926
+ 46	  47	   6	   5	 0.0378075
+res media(Ohm)	0.0253001
+errore da media(>0.1)	0.9887313
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	  48	  47	 0.0399724
+ 47	  48	   6	   5	 0.0552000
+res media(Ohm)	0.0475862
+errore da media(>0.1)	0.3200013
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  5	   6	   1	  48	 1.5755486
+  1	  48	   5	   6	 1.8189531
+res media(Ohm)	1.6972508
+errore da media(>0.1)	0.1434111
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	   5	   8	 37.8036956
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	   9	   8	 11.8075883
+  8	   9	   7	   6	 11.6729423
+res media(Ohm)	11.7402653
+errore da media(<0.1)	0.0114687
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  10	   9	 0.5064470
+  9	  10	   7	   6	 0.4992953
+res media(Ohm)	0.5028712
+errore da media(<0.1)	0.0142219
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  11	  10	 0.8595140
+ 10	  11	   7	   6	 0.7829041
+res media(Ohm)	0.8212091
+errore da media(<0.1)	0.0932892
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  12	  11	 1.1093026
+ 11	  12	   7	   6	 1.4896641
+res media(Ohm)	1.2994833
+errore da media(>0.1)	0.2927021
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  13	  12	 0.6908498
+ 12	  13	   7	   6	 1.6935276
+res media(Ohm)	1.1921887
+errore da media(>0.1)	0.8410396
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  14	  13	 0.0221632
+ 13	  14	   7	   6	 0.0380829
+res media(Ohm)	0.0301230
+errore da media(>0.1)	0.5284870
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  15	  14	 0.0020648
+ 14	  15	   7	   6	 0.0181090
+res media(Ohm)	0.0100869
+errore da media(>0.1)	1.5906024
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  15	  16	 0.0087408
+ 15	  16	   6	   7	 0.0013297
+res media(Ohm)	0.0050352
+errore da media(>0.1)	1.4718599
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  17	  16	 0.0110762
+ 16	  17	   7	   6	 0.0129380
+res media(Ohm)	0.0120071
+errore da media(>0.1)	0.1550607
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  18	  17	 0.0064704
+ 17	  18	   7	   6	 0.0078490
+res media(Ohm)	0.0071597
+errore da media(>0.1)	0.1925540
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  19	  18	 0.0268178
+ 18	  19	   7	   6	 0.0281652
+res media(Ohm)	0.0274915
+errore da media(<0.1)	0.0490132
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  19	  20	 0.0003870	quad rif!
+ 19	  20	   7	   6	 0.0004260
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  20	  21	 0.0059291
+ 20	  21	   6	   7	 0.0061612
+res media(Ohm)	0.0060452
+errore da media(<0.1)	0.0383918
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  22	  21	 0.0995695
+ 21	  22	   7	   6	 0.0915026
+res media(Ohm)	0.0955360
+errore da media(<0.1)	0.0844376
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  23	  22	 0.1919487
+ 22	  23	   7	   6	 0.1776533
+res media(Ohm)	0.1848010
+errore da media(<0.1)	0.0773559
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  24	  23	 0.2213179
+ 23	  24	   7	   6	 0.1947721
+res media(Ohm)	0.2080450
+errore da media(>0.1)	0.1275965
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  24	  25	 0.2100652
+ 24	  25	   6	   7	 0.2077097
+res media(Ohm)	0.2088875
+errore da media(<0.1)	0.0112767
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  25	  26	 0.1538315
+ 25	  26	   6	   7	 0.1262236
+res media(Ohm)	0.1400275
+errore da media(>0.1)	0.1971599
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  26	  27	 0.1259864
+ 26	  27	   6	   7	 0.1082422
+res media(Ohm)	0.1171143
+errore da media(>0.1)	0.1515114
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  27	  28	 0.0475810
+ 27	  28	   6	   7	 0.0420536
+res media(Ohm)	0.0448173
+errore da media(>0.1)	0.1233309
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  29	  28	 0.0089704
+ 28	  29	   7	   6	 0.0094164
+res media(Ohm)	0.0091934
+errore da media(<0.1)	0.0485175
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  30	  29	 0.0071376
+ 29	  30	   7	   6	 0.0064337
+res media(Ohm)	0.0067856
+errore da media(>0.1)	0.1037303
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  30	  31	 0.0235227
+ 30	  31	   6	   7	 0.0224879
+res media(Ohm)	0.0230053
+errore da media(<0.1)	0.0449805
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  32	  31	 0.0056492
+ 31	  32	   7	   6	 0.0048682
+res media(Ohm)	0.0052587
+errore da media(>0.1)	0.1485124
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  33	  32	 0.0040990
+ 32	  33	   7	   6	 0.0020154
+res media(Ohm)	0.0030572
+errore da media(>0.1)	0.6815315
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  34	  33	 0.0272703
+ 33	  34	   7	   6	 0.0179021
+res media(Ohm)	0.0225862
+errore da media(>0.1)	0.4147732
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  35	  34	 0.0269139
+ 34	  35	   7	   6	 0.0143207
+res media(Ohm)	0.0206173
+errore da media(>0.1)	0.6108077
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  36	  35	 0.0020526	quad rif!
+ 35	  36	   6	   7	 0.0112670
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  36	  37	 0.0954474
+ 36	  37	   6	   7	 0.1405012
+res media(Ohm)	0.1179743
+errore da media(>0.1)	0.3818955
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  38	  37	 0.0408559
+ 37	  38	   7	   6	 0.0602764
+res media(Ohm)	0.0505661
+errore da media(>0.1)	0.3840614
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  39	  38	 0.0094938
+ 38	  39	   7	   6	 0.0381085
+res media(Ohm)	0.0238012
+errore da media(>0.1)	1.2022393
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  39	  40	 0.0066213	quad rif!
+ 39	  40	   7	   6	 0.0093765
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  41	  40	 0.0295131
+ 40	  41	   7	   6	 0.0342076
+res media(Ohm)	0.0318604
+errore da media(>0.1)	0.1473454
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  42	  41	 0.0287039
+ 41	  42	   7	   6	 0.0307190
+res media(Ohm)	0.0297114
+errore da media(<0.1)	0.0678228
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  43	  42	 0.0838822
+ 42	  43	   7	   6	 0.0885596
+res media(Ohm)	0.0862209
+errore da media(<0.1)	0.0542487
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  44	  43	 0.0270474
+ 43	  44	   7	   6	 0.0263870
+res media(Ohm)	0.0267172
+errore da media(<0.1)	0.0247204
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  45	  44	 0.0220109
+ 44	  45	   7	   6	 0.0199992
+res media(Ohm)	0.0210051
+errore da media(<0.1)	0.0957691
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  46	  45	 0.3151203
+ 45	  46	   7	   6	 0.3014643
+res media(Ohm)	0.3082923
+errore da media(<0.1)	0.0442958
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  47	  46	 0.4035533
+ 46	  47	   7	   6	 0.3950496
+res media(Ohm)	0.3993015
+errore da media(<0.1)	0.0212965
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	  48	  47	 0.2181081
+ 47	  48	   7	   6	 0.1952454
+res media(Ohm)	0.2066767
+errore da media(>0.1)	0.1106207
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  6	   7	   1	  48	 1.5225044
+  1	  48	   6	   7	 1.5069108
+res media(Ohm)	1.5147076
+errore da media(<0.1)	0.0102948
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	   6	   9	 36.9334026
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  10	   9	 9.6902973
+  9	  10	   8	   7	 9.6020766
+res media(Ohm)	9.6461870
+errore da media(<0.1)	0.0091456
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  11	  10	 7.7961545
+ 10	  11	   8	   7	 7.7500464
+res media(Ohm)	7.7731005
+errore da media(<0.1)	0.0059318
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  12	  11	 6.5255485
+ 11	  12	   8	   7	 6.6683250
+res media(Ohm)	6.5969368
+errore da media(<0.1)	0.0216429
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  13	  12	 2.5203959
+ 12	  13	   8	   7	 2.0989971
+res media(Ohm)	2.3096965
+errore da media(>0.1)	0.1824477
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  14	  13	 0.3673141
+ 13	  14	   8	   7	 0.2856743
+res media(Ohm)	0.3264942
+errore da media(>0.1)	0.2500496
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  15	  14	 0.3293131
+ 14	  15	   8	   7	 0.2870597
+res media(Ohm)	0.3081864
+errore da media(>0.1)	0.1371037
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  16	  15	 0.1618551
+ 15	  16	   8	   7	 0.1410241
+res media(Ohm)	0.1514396
+errore da media(>0.1)	0.1375528
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  17	  16	 0.0414020
+ 16	  17	   8	   7	 0.0335824
+res media(Ohm)	0.0374922
+errore da media(>0.1)	0.2085683
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  18	  17	 0.0635694
+ 17	  18	   8	   7	 0.0591161
+res media(Ohm)	0.0613427
+errore da media(<0.1)	0.0725977
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  19	  18	 0.0199428
+ 18	  19	   8	   7	 0.0180372
+res media(Ohm)	0.0189900
+errore da media(>0.1)	0.1003429
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  20	  19	 0.0166357
+ 19	  20	   8	   7	 0.0149372
+res media(Ohm)	0.0157864
+errore da media(>0.1)	0.1075939
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  21	  20	 0.0107486
+ 20	  21	   8	   7	 0.0096744
+res media(Ohm)	0.0102115
+errore da media(>0.1)	0.1051939
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  21	  22	 0.0186894
+ 21	  22	   7	   8	 0.0121712
+res media(Ohm)	0.0154303
+errore da media(>0.1)	0.4224292
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  22	  23	 0.0182987
+ 22	  23	   7	   8	 0.0076853
+res media(Ohm)	0.0129920
+errore da media(>0.1)	0.8169240
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  24	  23	 0.0017932
+ 23	  24	   8	   7	 0.0103159
+res media(Ohm)	0.0060546
+errore da media(>0.1)	1.4076392
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  24	  25	 0.0186324
+ 24	  25	   7	   8	 0.0227813
+res media(Ohm)	0.0207069
+errore da media(>0.1)	0.2003652
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  26	  25	 0.0124117
+ 25	  26	   8	   7	 0.0044327
+res media(Ohm)	0.0084222
+errore da media(>0.1)	0.9473816
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  27	  26	 0.0278044
+ 26	  27	   8	   7	 0.0184013
+res media(Ohm)	0.0231028
+errore da media(>0.1)	0.4070109
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  28	  27	 0.0134803
+ 27	  28	   8	   7	 0.0100620
+res media(Ohm)	0.0117712
+errore da media(>0.1)	0.2904014
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  28	  29	 0.0108329
+ 28	  29	   7	   8	 0.0098354
+res media(Ohm)	0.0103342
+errore da media(<0.1)	0.0965243
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  29	  30	 0.0159276
+ 29	  30	   7	   8	 0.0142203
+res media(Ohm)	0.0150739
+errore da media(>0.1)	0.1132639
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  31	  30	 0.0033451
+ 30	  31	   8	   7	 0.0032948
+res media(Ohm)	0.0033199
+errore da media(<0.1)	0.0151523
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  31	  32	 0.0297297
+ 31	  32	   7	   8	 0.0258013
+res media(Ohm)	0.0277655
+errore da media(>0.1)	0.1414846
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  32	  33	 0.0341565
+ 32	  33	   7	   8	 0.0278757
+res media(Ohm)	0.0310161
+errore da media(>0.1)	0.2024998
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  33	  34	 0.0962444
+ 33	  34	   7	   8	 0.0770504
+res media(Ohm)	0.0866474
+errore da media(>0.1)	0.2215194
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  34	  35	 0.1561501
+ 34	  35	   7	   8	 0.1213187
+res media(Ohm)	0.1387344
+errore da media(>0.1)	0.2510654
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  35	  36	 0.2256908
+ 35	  36	   7	   8	 0.1553833
+res media(Ohm)	0.1905371
+errore da media(>0.1)	0.3689962
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  36	  37	 1.0486591
+ 36	  37	   7	   8	 1.0427327
+res media(Ohm)	1.0456959
+errore da media(<0.1)	0.0056674
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  38	  37	 0.3110423
+ 37	  38	   8	   7	 0.2630190
+res media(Ohm)	0.2870306
+errore da media(>0.1)	0.1673108
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  39	  38	 0.5404540
+ 38	  39	   8	   7	 0.5041028
+res media(Ohm)	0.5222784
+errore da media(<0.1)	0.0696011
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  40	  39	 0.3487459
+ 39	  40	   8	   7	 0.3264890
+res media(Ohm)	0.3376174
+errore da media(<0.1)	0.0659236
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  41	  40	 0.1271484
+ 40	  41	   8	   7	 0.1101037
+res media(Ohm)	0.1186260
+errore da media(>0.1)	0.1436840
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  42	  41	 0.1376077
+ 41	  42	   8	   7	 0.1306675
+res media(Ohm)	0.1341376
+errore da media(<0.1)	0.0517390
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  43	  42	 0.0638128
+ 42	  43	   8	   7	 0.0571396
+res media(Ohm)	0.0604762
+errore da media(>0.1)	0.1103443
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  44	  43	 0.0444689
+ 43	  44	   8	   7	 0.0413325
+res media(Ohm)	0.0429007
+errore da media(<0.1)	0.0731075
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  45	  44	 0.0300836
+ 44	  45	   8	   7	 0.0267901
+res media(Ohm)	0.0284369
+errore da media(>0.1)	0.1158184
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  45	  46	 0.0015342	quad rif!
+ 45	  46	   8	   7	 0.0111230
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  46	  47	 0.0026243	quad rif!
+ 46	  47	   8	   7	 0.0138590
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	  48	  47	 0.0043989
+ 47	  48	   8	   7	 0.0129564
+res media(Ohm)	0.0086777
+errore da media(>0.1)	0.9861549
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  7	   8	   1	  48	 0.1874965
+  1	  48	   7	   8	 0.1119474
+res media(Ohm)	0.1497219
+errore da media(>0.1)	0.5045959
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	   7	  10	 82.9845487
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  11	  10	 52.0336003
+ 10	  11	   9	   8	 52.1691393
+res media(Ohm)	52.1013698
+errore da media(<0.1)	0.0026014
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  12	  11	 11.6087994
+ 11	  12	   9	   8	 11.8325077
+res media(Ohm)	11.7206536
+errore da media(<0.1)	0.0190867
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  13	  12	 4.8218743
+ 12	  13	   9	   8	 4.5699593
+res media(Ohm)	4.6959168
+errore da media(<0.1)	0.0536455
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  14	  13	 0.3572895
+ 13	  14	   9	   8	 0.2884204
+res media(Ohm)	0.3228550
+errore da media(>0.1)	0.2133129
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  15	  14	 0.2541342
+ 14	  15	   9	   8	 0.2478159
+res media(Ohm)	0.2509750
+errore da media(<0.1)	0.0251751
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  16	  15	 0.1143728
+ 15	  16	   9	   8	 0.1128979
+res media(Ohm)	0.1136354
+errore da media(<0.1)	0.0129793
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  17	  16	 0.0338228
+ 16	  17	   9	   8	 0.0303707
+res media(Ohm)	0.0320968
+errore da media(>0.1)	0.1075532
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  18	  17	 0.0422460
+ 17	  18	   9	   8	 0.0425998
+res media(Ohm)	0.0424229
+errore da media(<0.1)	0.0083381
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  19	  18	 0.0158568
+ 18	  19	   9	   8	 0.0149638
+res media(Ohm)	0.0154103
+errore da media(<0.1)	0.0579494
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  20	  19	 0.0090646
+ 19	  20	   9	   8	 0.0090989
+res media(Ohm)	0.0090818
+errore da media(<0.1)	0.0037851
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  21	  20	 0.0048433
+ 20	  21	   9	   8	 0.0050728
+res media(Ohm)	0.0049580
+errore da media(<0.1)	0.0462942
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  21	  22	 0.0033754
+ 21	  22	   8	   9	 0.0040031
+res media(Ohm)	0.0036892
+errore da media(>0.1)	0.1701464
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  23	  22	 0.0022420
+ 22	  23	   9	   8	 0.0009078
+res media(Ohm)	0.0015749
+errore da media(>0.1)	0.8471883
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  24	  23	 0.0119700
+ 23	  24	   9	   8	 0.0100162
+res media(Ohm)	0.0109931
+errore da media(>0.1)	0.1777314
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  24	  25	 0.0191351
+ 24	  25	   8	   9	 0.0190347
+res media(Ohm)	0.0190849
+errore da media(<0.1)	0.0052616
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  25	  26	 0.0047459
+ 25	  26	   8	   9	 0.0016552
+res media(Ohm)	0.0032005
+errore da media(>0.1)	0.9656995
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  27	  26	 0.0066024
+ 26	  27	   9	   8	 0.0076942
+res media(Ohm)	0.0071483
+errore da media(>0.1)	0.1527298
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  28	  27	 0.0045999
+ 27	  28	   9	   8	 0.0049210
+res media(Ohm)	0.0047605
+errore da media(<0.1)	0.0674490
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  28	  29	 0.0063683
+ 28	  29	   8	   9	 0.0066458
+res media(Ohm)	0.0065071
+errore da media(<0.1)	0.0426574
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  29	  30	 0.0104669
+ 29	  30	   8	   9	 0.0104898
+res media(Ohm)	0.0104783
+errore da media(<0.1)	0.0021882
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  30	  31	 0.0011293	quad rif!
+ 30	  31	   9	   8	 0.0001606
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  31	  32	 0.0224294
+ 31	  32	   8	   9	 0.0210171
+res media(Ohm)	0.0217233
+errore da media(<0.1)	0.0650141
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  32	  33	 0.0263958
+ 32	  33	   8	   9	 0.0236669
+res media(Ohm)	0.0250313
+errore da media(>0.1)	0.1090219
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  33	  34	 0.0722765
+ 33	  34	   8	   9	 0.0639069
+res media(Ohm)	0.0680917
+errore da media(>0.1)	0.1229175
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  34	  35	 0.1235048
+ 34	  35	   8	   9	 0.1058136
+res media(Ohm)	0.1146592
+errore da media(>0.1)	0.1542938
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  35	  36	 0.1976884
+ 35	  36	   8	   9	 0.1466614
+res media(Ohm)	0.1721749
+errore da media(>0.1)	0.2963674
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  36	  37	 1.0314336
+ 36	  37	   8	   9	 1.1132573
+res media(Ohm)	1.0723455
+errore da media(<0.1)	0.0763035
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  38	  37	 0.3324409
+ 37	  38	   9	   8	 0.3027797
+res media(Ohm)	0.3176103
+errore da media(<0.1)	0.0933885
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  39	  38	 0.4995222
+ 38	  39	   9	   8	 0.5102374
+res media(Ohm)	0.5048798
+errore da media(<0.1)	0.0212233
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  40	  39	 0.3106924
+ 39	  40	   9	   8	 0.3198770
+res media(Ohm)	0.3152847
+errore da media(<0.1)	0.0291309
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  41	  40	 0.1303067
+ 40	  41	   9	   8	 0.1227382
+res media(Ohm)	0.1265224
+errore da media(<0.1)	0.0598195
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  42	  41	 0.1249053
+ 41	  42	   9	   8	 0.1277928
+res media(Ohm)	0.1263490
+errore da media(<0.1)	0.0228536
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  43	  42	 0.0610741
+ 42	  43	   9	   8	 0.0574648
+res media(Ohm)	0.0592695
+errore da media(<0.1)	0.0608973
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  44	  43	 0.0284405
+ 43	  44	   9	   8	 0.0295629
+res media(Ohm)	0.0290017
+errore da media(<0.1)	0.0387029
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  45	  44	 0.0169801
+ 44	  45	   9	   8	 0.0156475
+res media(Ohm)	0.0163138
+errore da media(<0.1)	0.0816856
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  46	  45	 0.0161616
+ 45	  46	   9	   8	 0.0147878
+res media(Ohm)	0.0154747
+errore da media(<0.1)	0.0887775
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  47	  46	 0.0198516
+ 46	  47	   9	   8	 0.0171027
+res media(Ohm)	0.0184772
+errore da media(>0.1)	0.1487748
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  48	  47	 0.0097068
+ 47	  48	   9	   8	 0.0084820
+res media(Ohm)	0.0090944
+errore da media(>0.1)	0.1346816
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  8	   9	  48	   1	 0.2775314
+  1	  48	   9	   8	 0.2960282
+res media(Ohm)	0.2867798
+errore da media(<0.1)	0.0644982
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	   8	  11	 66.4740922
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  12	  11	 38.0634982
+ 11	  12	  10	   9	 38.1783949
+res media(Ohm)	38.1209465
+errore da media(<0.1)	0.0030140
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  13	  12	 16.0421580
+ 12	  13	  10	   9	 15.8698657
+res media(Ohm)	15.9560118
+errore da media(<0.1)	0.0107980
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  14	  13	 1.1977148
+ 13	  14	  10	   9	 1.0341378
+res media(Ohm)	1.1159263
+errore da media(>0.1)	0.1465840
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  15	  14	 0.9262853
+ 14	  15	  10	   9	 0.8529857
+res media(Ohm)	0.8896355
+errore da media(<0.1)	0.0823928
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  16	  15	 0.4384214
+ 15	  16	  10	   9	 0.4043597
+res media(Ohm)	0.4213906
+errore da media(<0.1)	0.0808317
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  17	  16	 0.1023863
+ 16	  17	  10	   9	 0.0863792
+res media(Ohm)	0.0943828
+errore da media(>0.1)	0.1695982
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  18	  17	 0.1465767
+ 17	  18	  10	   9	 0.1468758
+res media(Ohm)	0.1467262
+errore da media(<0.1)	0.0020388
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  19	  18	 0.0334515
+ 18	  19	  10	   9	 0.0277563
+res media(Ohm)	0.0306039
+errore da media(>0.1)	0.1860930
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  20	  19	 0.0419055
+ 19	  20	  10	   9	 0.0419393
+res media(Ohm)	0.0419224
+errore da media(<0.1)	0.0008067
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  21	  20	 0.0302717
+ 20	  21	  10	   9	 0.0327845
+res media(Ohm)	0.0315281
+errore da media(<0.1)	0.0797012
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  21	  22	 0.1078727
+ 21	  22	   9	  10	 0.1051483
+res media(Ohm)	0.1065105
+errore da media(<0.1)	0.0255786
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  22	  23	 0.1594616
+ 22	  23	   9	  10	 0.1511076
+res media(Ohm)	0.1552846
+errore da media(<0.1)	0.0537986
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  23	  24	 0.1250146
+ 23	  24	   9	  10	 0.1070557
+res media(Ohm)	0.1160351
+errore da media(>0.1)	0.1547718
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  25	  24	 0.0371970
+ 24	  25	  10	   9	 0.0372509
+res media(Ohm)	0.0372240
+errore da media(<0.1)	0.0014471
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  26	  25	 0.1352938
+ 25	  26	  10	   9	 0.1168097
+res media(Ohm)	0.1260518
+errore da media(>0.1)	0.1466385
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  27	  26	 0.1587642
+ 26	  27	  10	   9	 0.1510318
+res media(Ohm)	0.1548980
+errore da media(<0.1)	0.0499197
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  28	  27	 0.0689022
+ 27	  28	  10	   9	 0.0684746
+res media(Ohm)	0.0686884
+errore da media(<0.1)	0.0062254
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  28	  29	 0.0374721
+ 28	  29	   9	  10	 0.0428183
+res media(Ohm)	0.0401452
+errore da media(>0.1)	0.1331735
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  29	  30	 0.0514290
+ 29	  30	   9	  10	 0.0560657
+res media(Ohm)	0.0537473
+errore da media(<0.1)	0.0862679
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  31	  30	 0.0220182
+ 30	  31	  10	   9	 0.0289008
+res media(Ohm)	0.0254595
+errore da media(>0.1)	0.2703358
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  31	  32	 0.0942147
+ 31	  32	   9	  10	 0.0978847
+res media(Ohm)	0.0960497
+errore da media(<0.1)	0.0382093
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  32	  33	 0.1068615
+ 32	  33	   9	  10	 0.1017389
+res media(Ohm)	0.1043002
+errore da media(<0.1)	0.0491147
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  33	  34	 0.3063055
+ 33	  34	   9	  10	 0.2922838
+res media(Ohm)	0.2992947
+errore da media(<0.1)	0.0468493
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  34	  35	 0.5002355
+ 34	  35	   9	  10	 0.4678702
+res media(Ohm)	0.4840529
+errore da media(<0.1)	0.0668631
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  35	  36	 0.6786439
+ 35	  36	   9	  10	 0.5842429
+res media(Ohm)	0.6314434
+errore da media(>0.1)	0.1495004
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  36	  37	 4.5907343
+ 36	  37	   9	  10	 4.6533507
+res media(Ohm)	4.6220425
+errore da media(<0.1)	0.0135473
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  38	  37	 1.0683580
+ 37	  38	  10	   9	 1.0037884
+res media(Ohm)	1.0360732
+errore da media(<0.1)	0.0623215
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  39	  38	 2.1719919
+ 38	  39	  10	   9	 2.1720884
+res media(Ohm)	2.1720402
+errore da media(<0.1)	0.0000444
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  40	  39	 1.4245790
+ 39	  40	  10	   9	 1.4323740
+res media(Ohm)	1.4284765
+errore da media(<0.1)	0.0054569
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  41	  40	 0.5131478
+ 40	  41	  10	   9	 0.4664390
+res media(Ohm)	0.4897934
+errore da media(<0.1)	0.0953643
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  42	  41	 0.5337715
+ 41	  42	  10	   9	 0.5404303
+res media(Ohm)	0.5371009
+errore da media(<0.1)	0.0123976
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  43	  42	 0.1943938
+ 42	  43	  10	   9	 0.1620415
+res media(Ohm)	0.1782177
+errore da media(>0.1)	0.1815331
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  44	  43	 0.1540963
+ 43	  44	  10	   9	 0.1535261
+res media(Ohm)	0.1538112
+errore da media(<0.1)	0.0037069
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  45	  44	 0.1008195
+ 44	  45	  10	   9	 0.1013152
+res media(Ohm)	0.1010673
+errore da media(<0.1)	0.0049046
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  45	  46	 0.2176404
+ 45	  46	   9	  10	 0.2147314
+res media(Ohm)	0.2161859
+errore da media(<0.1)	0.0134560
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  46	  47	 0.2753875
+ 46	  47	   9	  10	 0.2790255
+res media(Ohm)	0.2772065
+errore da media(<0.1)	0.0131238
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  47	  48	 0.1054014
+ 47	  48	   9	  10	 0.0926301
+res media(Ohm)	0.0990158
+errore da media(>0.1)	0.1289829
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+  9	  10	  48	   1	 0.2988693
+  1	  48	  10	   9	 0.4647870
+res media(Ohm)	0.3818282
+errore da media(>0.1)	0.4345350
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	   9	  12	 103.4672980
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  13	  12	 38.4470579
+ 12	  13	  11	  10	 37.6933140
+res media(Ohm)	38.0701859
+errore da media(<0.1)	0.0197988
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  14	  13	 1.9311476
+ 13	  14	  11	  10	 1.7387637
+res media(Ohm)	1.8349557
+errore da media(>0.1)	0.1048439
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  15	  14	 1.3801099
+ 14	  15	  11	  10	 1.2955287
+res media(Ohm)	1.3378193
+errore da media(<0.1)	0.0632231
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  16	  15	 0.6275332
+ 15	  16	  11	  10	 0.5897112
+res media(Ohm)	0.6086222
+errore da media(<0.1)	0.0621437
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  17	  16	 0.1567618
+ 16	  17	  11	  10	 0.1348615
+res media(Ohm)	0.1458116
+errore da media(>0.1)	0.1501961
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  18	  17	 0.2086883
+ 17	  18	  11	  10	 0.2099335
+res media(Ohm)	0.2093109
+errore da media(<0.1)	0.0059489
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  19	  18	 0.0561508
+ 18	  19	  11	  10	 0.0490966
+res media(Ohm)	0.0526237
+errore da media(>0.1)	0.1340501
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  20	  19	 0.0567823
+ 19	  20	  11	  10	 0.0571444
+res media(Ohm)	0.0569633
+errore da media(<0.1)	0.0063565
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  21	  20	 0.0387708
+ 20	  21	  11	  10	 0.0420291
+res media(Ohm)	0.0404000
+errore da media(<0.1)	0.0806509
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  21	  22	 0.1172780
+ 21	  22	  10	  11	 0.1161689
+res media(Ohm)	0.1167235
+errore da media(<0.1)	0.0095026
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  22	  23	 0.1640568
+ 22	  23	  10	  11	 0.1572073
+res media(Ohm)	0.1606320
+errore da media(<0.1)	0.0426408
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  23	  24	 0.1123577
+ 23	  24	  10	  11	 0.0951380
+res media(Ohm)	0.1037478
+errore da media(>0.1)	0.1659757
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  25	  24	 0.0278971
+ 24	  25	  11	  10	 0.0255065
+res media(Ohm)	0.0267018
+errore da media(<0.1)	0.0895319
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  26	  25	 0.1299902
+ 25	  26	  11	  10	 0.1136161
+res media(Ohm)	0.1218031
+errore da media(>0.1)	0.1344310
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  27	  26	 0.1696636
+ 26	  27	  11	  10	 0.1629758
+res media(Ohm)	0.1663197
+errore da media(<0.1)	0.0402102
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  28	  27	 0.0760305
+ 27	  28	  11	  10	 0.0767334
+res media(Ohm)	0.0763820
+errore da media(<0.1)	0.0092022
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  28	  29	 0.0465947
+ 28	  29	  10	  11	 0.0538727
+res media(Ohm)	0.0502337
+errore da media(>0.1)	0.1448823
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  29	  30	 0.0666874
+ 29	  30	  10	  11	 0.0736060
+res media(Ohm)	0.0701467
+errore da media(<0.1)	0.0986303
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  31	  30	 0.0191129
+ 30	  31	  11	  10	 0.0284030
+res media(Ohm)	0.0237579
+errore da media(>0.1)	0.3910294
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  31	  32	 0.1270329
+ 31	  32	  10	  11	 0.1330948
+res media(Ohm)	0.1300638
+errore da media(<0.1)	0.0466066
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  32	  33	 0.1485125
+ 32	  33	  10	  11	 0.1430830
+res media(Ohm)	0.1457977
+errore da media(<0.1)	0.0372398
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  33	  34	 0.4162477
+ 33	  34	  10	  11	 0.4005460
+res media(Ohm)	0.4083968
+errore da media(<0.1)	0.0384471
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  34	  35	 0.6860603
+ 34	  35	  10	  11	 0.6476893
+res media(Ohm)	0.6668748
+errore da media(<0.1)	0.0575386
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  35	  36	 0.9815272
+ 35	  36	  10	  11	 0.8670865
+res media(Ohm)	0.9243068
+errore da media(>0.1)	0.1238125
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  36	  37	 6.2269860
+ 36	  37	  10	  11	 6.2078145
+res media(Ohm)	6.2174002
+errore da media(<0.1)	0.0030835
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  38	  37	 2.3853503
+ 37	  38	  11	  10	 2.3010444
+res media(Ohm)	2.3431973
+errore da media(<0.1)	0.0359790
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  39	  38	 2.7951496
+ 38	  39	  11	  10	 2.7520486
+res media(Ohm)	2.7735991
+errore da media(<0.1)	0.0155397
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  40	  39	 1.6311551
+ 39	  40	  11	  10	 1.6111294
+res media(Ohm)	1.6211423
+errore da media(<0.1)	0.0123528
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  41	  40	 0.6040471
+ 40	  41	  11	  10	 0.5411784
+res media(Ohm)	0.5726128
+errore da media(>0.1)	0.1097926
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  42	  41	 0.6128507
+ 41	  42	  11	  10	 0.6063773
+res media(Ohm)	0.6096140
+errore da media(<0.1)	0.0106190
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  43	  42	 0.2337209
+ 42	  43	  11	  10	 0.1952124
+res media(Ohm)	0.2144666
+errore da media(>0.1)	0.1795546
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  44	  43	 0.1631765
+ 43	  44	  11	  10	 0.1598780
+res media(Ohm)	0.1615273
+errore da media(<0.1)	0.0204205
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  45	  44	 0.1040021
+ 44	  45	  11	  10	 0.1022205
+res media(Ohm)	0.1031113
+errore da media(<0.1)	0.0172789
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  45	  46	 0.1922634
+ 45	  46	  10	  11	 0.1870950
+res media(Ohm)	0.1896792
+errore da media(<0.1)	0.0272481
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  46	  47	 0.2481662
+ 46	  47	  10	  11	 0.2476964
+res media(Ohm)	0.2479313
+errore da media(<0.1)	0.0018947
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	  47	  48	 0.1018719
+ 47	  48	  10	  11	 0.0875447
+res media(Ohm)	0.0947083
+errore da media(>0.1)	0.1512768
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 10	  11	   1	  48	 0.2138127
+  1	  48	  10	  11	 0.3287664
+res media(Ohm)	0.2712896
+errore da media(>0.1)	0.4237305
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  14	  13	 3.3541133
+ 13	  14	  12	  11	 3.4437388
+res media(Ohm)	3.3989260
+errore da media(<0.1)	0.0263688
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  15	  14	 1.7270527
+ 14	  15	  12	  11	 1.7886419
+res media(Ohm)	1.7578473
+errore da media(<0.1)	0.0350367
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  16	  15	 0.7182019
+ 15	  16	  12	  11	 0.7494725
+res media(Ohm)	0.7338372
+errore da media(<0.1)	0.0426125
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  17	  16	 0.2012239
+ 16	  17	  12	  11	 0.1914686
+res media(Ohm)	0.1963462
+errore da media(<0.1)	0.0496841
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  18	  17	 0.2333487
+ 17	  18	  12	  11	 0.2492487
+res media(Ohm)	0.2412987
+errore da media(<0.1)	0.0658934
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  19	  18	 0.0762470
+ 18	  19	  12	  11	 0.0738457
+res media(Ohm)	0.0750464
+errore da media(<0.1)	0.0319971
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  20	  19	 0.0581836
+ 19	  20	  12	  11	 0.0619844
+res media(Ohm)	0.0600840
+errore da media(<0.1)	0.0632582
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  21	  20	 0.0354873
+ 20	  21	  12	  11	 0.0409414
+res media(Ohm)	0.0382144
+errore da media(>0.1)	0.1427240
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  21	  22	 0.0837993
+ 21	  22	  11	  12	 0.0871748
+res media(Ohm)	0.0854871
+errore da media(<0.1)	0.0394856
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  22	  23	 0.1048550
+ 22	  23	  11	  12	 0.1054697
+res media(Ohm)	0.1051624
+errore da media(<0.1)	0.0058454
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  23	  24	 0.0546403
+ 23	  24	  11	  12	 0.0486636
+res media(Ohm)	0.0516519
+errore da media(>0.1)	0.1157102
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  25	  24	 0.0179431
+ 24	  25	  12	  11	 0.0185936
+res media(Ohm)	0.0182683
+errore da media(<0.1)	0.0356082
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  26	  25	 0.0612153
+ 25	  26	  12	  11	 0.0570854
+res media(Ohm)	0.0591503
+errore da media(<0.1)	0.0698194
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  27	  26	 0.1096846
+ 26	  27	  12	  11	 0.1158787
+res media(Ohm)	0.1127816
+errore da media(<0.1)	0.0549209
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  28	  27	 0.0571069
+ 27	  28	  12	  11	 0.0631596
+res media(Ohm)	0.0601333
+errore da media(>0.1)	0.1006539
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  28	  29	 0.0463899
+ 28	  29	  11	  12	 0.0574577
+res media(Ohm)	0.0519238
+errore da media(>0.1)	0.2131549
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  29	  30	 0.0736329
+ 29	  30	  11	  12	 0.0859791
+res media(Ohm)	0.0798060
+errore da media(>0.1)	0.1547032
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  30	  31	 0.0019447	quad rif!
+ 30	  31	  12	  11	 0.0085884
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  31	  32	 0.1572700
+ 31	  32	  11	  12	 0.1733561
+res media(Ohm)	0.1653130
+errore da media(<0.1)	0.0973071
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  32	  33	 0.1989875
+ 32	  33	  11	  12	 0.2051533
+res media(Ohm)	0.2020704
+errore da media(<0.1)	0.0305132
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  33	  34	 0.5291365
+ 33	  34	  11	  12	 0.5352271
+res media(Ohm)	0.5321818
+errore da media(<0.1)	0.0114447
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  34	  35	 0.9223625
+ 34	  35	  11	  12	 0.9189542
+res media(Ohm)	0.9206584
+errore da media(<0.1)	0.0037020
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  35	  36	 1.5650099
+ 35	  36	  11	  12	 1.4903255
+res media(Ohm)	1.5276677
+errore da media(<0.1)	0.0488879
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  36	  37	 7.3285581
+ 36	  37	  11	  12	 7.3989643
+res media(Ohm)	7.3637612
+errore da media(<0.1)	0.0095612
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  38	  37	 6.8382431
+ 37	  38	  12	  11	 6.7964732
+res media(Ohm)	6.8173582
+errore da media(<0.1)	0.0061270
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  39	  38	 2.4803889
+ 38	  39	  12	  11	 2.4604789
+res media(Ohm)	2.4704339
+errore da media(<0.1)	0.0080593
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  40	  39	 0.7565618
+ 39	  40	  12	  11	 0.7590951
+res media(Ohm)	0.7578285
+errore da media(<0.1)	0.0033429
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  41	  40	 0.2800486
+ 40	  41	  12	  11	 0.2628739
+res media(Ohm)	0.2714613
+errore da media(<0.1)	0.0632679
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  42	  41	 0.2813630
+ 41	  42	  12	  11	 0.2852393
+res media(Ohm)	0.2833011
+errore da media(<0.1)	0.0136826
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  43	  42	 0.1156743
+ 42	  43	  12	  11	 0.1088856
+res media(Ohm)	0.1122800
+errore da media(<0.1)	0.0604628
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  44	  43	 0.0506126
+ 43	  44	  12	  11	 0.0555474
+res media(Ohm)	0.0530800
+errore da media(<0.1)	0.0929676
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  45	  44	 0.0270709
+ 44	  45	  12	  11	 0.0302668
+res media(Ohm)	0.0286689
+errore da media(>0.1)	0.1114778
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  45	  46	 0.0337073
+ 45	  46	  11	  12	 0.0335711
+res media(Ohm)	0.0336392
+errore da media(<0.1)	0.0040494
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  46	  47	 0.0652462
+ 46	  47	  11	  12	 0.0649950
+res media(Ohm)	0.0651206
+errore da media(<0.1)	0.0038587
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  47	  48	 0.0766860
+ 47	  48	  11	  12	 0.0686919
+res media(Ohm)	0.0726890
+errore da media(>0.1)	0.1099761
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 11	  12	  48	   1	 2.0145330
+  1	  48	  12	  11	 2.0781956
+res media(Ohm)	2.0463643
+errore da media(<0.1)	0.0311101
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  15	  14	 35.9910183
+ 14	  15	  13	  12	 36.0347137
+res media(Ohm)	36.0128660
+errore da media(<0.1)	0.0012133
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  16	  15	 11.5807385
+ 15	  16	  13	  12	 11.6076367
+res media(Ohm)	11.5941876
+errore da media(<0.1)	0.0023200
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  17	  16	 3.6780726
+ 16	  17	  13	  12	 3.5326395
+res media(Ohm)	3.6053561
+errore da media(<0.1)	0.0403381
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  18	  17	 3.3135797
+ 17	  18	  13	  12	 3.3382639
+res media(Ohm)	3.3259218
+errore da media(<0.1)	0.0074218
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  19	  18	 1.1351080
+ 18	  19	  13	  12	 1.0592446
+res media(Ohm)	1.0971763
+errore da media(<0.1)	0.0691443
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  20	  19	 0.5805937
+ 19	  20	  13	  12	 0.5573222
+res media(Ohm)	0.5689579
+errore da media(<0.1)	0.0409020
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  21	  20	 0.2958448
+ 20	  21	  13	  12	 0.2917101
+res media(Ohm)	0.2937775
+errore da media(<0.1)	0.0140742
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  21	  22	 0.3581469
+ 21	  22	  12	  13	 0.3581243
+res media(Ohm)	0.3581356
+errore da media(<0.1)	0.0000631
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  22	  23	 0.2847585
+ 22	  23	  12	  13	 0.2966215
+res media(Ohm)	0.2906900
+errore da media(<0.1)	0.0408097
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  24	  23	 0.1691714
+ 23	  24	  13	  12	 0.1701239
+res media(Ohm)	0.1696477
+errore da media(<0.1)	0.0056148
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  25	  24	 0.0805308
+ 24	  25	  13	  12	 0.0725166
+res media(Ohm)	0.0765237
+errore da media(>0.1)	0.1047294
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  25	  26	 0.0481817
+ 25	  26	  12	  13	 0.0484811
+res media(Ohm)	0.0483314
+errore da media(<0.1)	0.0061946
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  27	  26	 0.2974873
+ 26	  27	  13	  12	 0.3096270
+res media(Ohm)	0.3035572
+errore da media(<0.1)	0.0399917
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  28	  27	 0.2085534
+ 27	  28	  13	  12	 0.2027068
+res media(Ohm)	0.2056301
+errore da media(<0.1)	0.0284324
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  28	  29	 0.2427241
+ 28	  29	  12	  13	 0.2523482
+res media(Ohm)	0.2475361
+errore da media(<0.1)	0.0388796
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  29	  30	 0.4310680
+ 29	  30	  12	  13	 0.4417314
+res media(Ohm)	0.4363997
+errore da media(<0.1)	0.0244350
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  30	  31	 0.1175815
+ 30	  31	  12	  13	 0.0640717
+res media(Ohm)	0.0908266
+errore da media(>0.1)	0.5891428
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  31	  32	 0.9508944
+ 31	  32	  12	  13	 0.9880336
+res media(Ohm)	0.9694640
+errore da media(<0.1)	0.0383090
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  32	  33	 1.4117093
+ 32	  33	  12	  13	 1.3829291
+res media(Ohm)	1.3973192
+errore da media(<0.1)	0.0205968
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  33	  34	 3.4180803
+ 33	  34	  12	  13	 3.4319517
+res media(Ohm)	3.4250160
+errore da media(<0.1)	0.0040500
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  34	  35	 3.9685325
+ 34	  35	  12	  13	 3.9403340
+res media(Ohm)	3.9544332
+errore da media(<0.1)	0.0071309
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  35	  36	 4.9521504
+ 35	  36	  12	  13	 4.8720152
+res media(Ohm)	4.9120828
+errore da media(<0.1)	0.0163139
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  37	  36	 37.7602801
+ 36	  37	  13	  12	 37.6443262
+res media(Ohm)	37.7023032
+errore da media(<0.1)	0.0030755
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  37	  38	 7.6711127
+ 37	  38	  12	  13	 7.6987477
+res media(Ohm)	7.6849302
+errore da media(<0.1)	0.0035960
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  38	  39	 6.5595953
+ 38	  39	  12	  13	 6.6014264
+res media(Ohm)	6.5805108
+errore da media(<0.1)	0.0063568
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  39	  40	 3.5764705
+ 39	  40	  12	  13	 3.6072539
+res media(Ohm)	3.5918622
+errore da media(<0.1)	0.0085703
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  40	  41	 1.3419365
+ 40	  41	  12	  13	 1.2375300
+res media(Ohm)	1.2897333
+errore da media(<0.1)	0.0809520
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  41	  42	 1.3146261
+ 41	  42	  12	  13	 1.3280881
+res media(Ohm)	1.3213571
+errore da media(<0.1)	0.0101880
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  42	  43	 0.5316507
+ 42	  43	  12	  13	 0.4593881
+res media(Ohm)	0.4955194
+errore da media(>0.1)	0.1458322
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  43	  44	 0.3466996
+ 43	  44	  12	  13	 0.3415682
+res media(Ohm)	0.3441339
+errore da media(<0.1)	0.0149111
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  44	  45	 0.2035609
+ 44	  45	  12	  13	 0.2002484
+res media(Ohm)	0.2019046
+errore da media(<0.1)	0.0164061
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  46	  45	 0.3242068
+ 45	  46	  13	  12	 0.3253154
+res media(Ohm)	0.3247611
+errore da media(<0.1)	0.0034133
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  47	  46	 0.3718370
+ 46	  47	  13	  12	 0.3910241
+res media(Ohm)	0.3814306
+errore da media(<0.1)	0.0503031
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	  48	  47	 0.0150691
+ 47	  48	  13	  12	 0.0112625
+res media(Ohm)	0.0131658
+errore da media(>0.1)	0.2891270
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 12	  13	   1	  48	 2.1615853
+  1	  48	  12	  13	 2.8454760
+res media(Ohm)	2.5035306
+errore da media(>0.1)	0.2731705
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  12	  15	 51.3839569
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  16	  15	 29.0818261
+ 15	  16	  14	  13	 28.9442100
+res media(Ohm)	29.0130181
+errore da media(<0.1)	0.0047433
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  17	  16	 8.8801832
+ 16	  17	  14	  13	 8.5164799
+res media(Ohm)	8.6983315
+errore da media(<0.1)	0.0418130
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  18	  17	 4.6317824
+ 17	  18	  14	  13	 4.5660901
+res media(Ohm)	4.5989363
+errore da media(<0.1)	0.0142842
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  19	  18	 1.1409637
+ 18	  19	  14	  13	 1.0539007
+res media(Ohm)	1.0974322
+errore da media(<0.1)	0.0793334
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  20	  19	 0.2968040
+ 19	  20	  14	  13	 0.2737366
+res media(Ohm)	0.2852703
+errore da media(<0.1)	0.0808614
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  21	  20	 0.0970560
+ 20	  21	  14	  13	 0.0859132
+res media(Ohm)	0.0914846
+errore da media(>0.1)	0.1217998
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  22	  21	 0.0059346
+ 21	  22	  14	  13	 0.0135221
+res media(Ohm)	0.0097283
+errore da media(>0.1)	0.7799368
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  23	  22	 0.0506603
+ 22	  23	  14	  13	 0.0542312
+res media(Ohm)	0.0524458
+errore da media(<0.1)	0.0680876
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  24	  23	 0.0931129
+ 23	  24	  14	  13	 0.0878509
+res media(Ohm)	0.0904819
+errore da media(<0.1)	0.0581558
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  25	  24	 0.0860005
+ 24	  25	  14	  13	 0.0850660
+res media(Ohm)	0.0855333
+errore da media(<0.1)	0.0109249
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  25	  26	 0.0589875
+ 25	  26	  13	  14	 0.0565774
+res media(Ohm)	0.0577825
+errore da media(<0.1)	0.0417097
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  26	  27	 0.0706747
+ 26	  27	  13	  14	 0.0835500
+res media(Ohm)	0.0771123
+errore da media(>0.1)	0.1669688
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  27	  28	 0.0455735
+ 27	  28	  13	  14	 0.0508851
+res media(Ohm)	0.0482293
+errore da media(>0.1)	0.1101327
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  29	  28	 0.0498523
+ 28	  29	  14	  13	 0.0639845
+res media(Ohm)	0.0569184
+errore da media(>0.1)	0.2482886
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  30	  29	 0.0929213
+ 29	  30	  14	  13	 0.1103966
+res media(Ohm)	0.1016590
+errore da media(>0.1)	0.1719014
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  31	  30	 0.0439343
+ 30	  31	  14	  13	 0.0321504
+res media(Ohm)	0.0380423
+errore da media(>0.1)	0.3097567
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  32	  31	 0.2527098
+ 31	  32	  14	  13	 0.2771769
+res media(Ohm)	0.2649433
+errore da media(<0.1)	0.0923484
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  33	  32	 0.3696799
+ 32	  33	  14	  13	 0.3841292
+res media(Ohm)	0.3769046
+errore da media(<0.1)	0.0383367
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  34	  33	 1.0270312
+ 33	  34	  14	  13	 1.0607217
+res media(Ohm)	1.0438764
+errore da media(<0.1)	0.0322743
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  35	  34	 2.4783572
+ 34	  35	  14	  13	 2.5103095
+res media(Ohm)	2.4943334
+errore da media(<0.1)	0.0128100
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  36	  35	 5.5554772
+ 35	  36	  14	  13	 5.5458160
+res media(Ohm)	5.5506466
+errore da media(<0.1)	0.0017406
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  36	  37	 6.4199047
+ 36	  37	  13	  14	 6.4057789
+res media(Ohm)	6.4128418
+errore da media(<0.1)	0.0022027
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  37	  38	 1.4710074
+ 37	  38	  13	  14	 1.4707896
+res media(Ohm)	1.4708985
+errore da media(<0.1)	0.0001481
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  38	  39	 0.9615943
+ 38	  39	  13	  14	 0.9729591
+res media(Ohm)	0.9672767
+errore da media(<0.1)	0.0117493
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  39	  40	 0.4738697
+ 39	  40	  13	  14	 0.4950547
+res media(Ohm)	0.4844622
+errore da media(<0.1)	0.0437289
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  40	  41	 0.1550257
+ 40	  41	  13	  14	 0.1511249
+res media(Ohm)	0.1530753
+errore da media(<0.1)	0.0254829
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  41	  42	 0.1844299
+ 41	  42	  13	  14	 0.2007087
+res media(Ohm)	0.1925693
+errore da media(<0.1)	0.0845345
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  42	  43	 0.0636677
+ 42	  43	  13	  14	 0.0591228
+res media(Ohm)	0.0613952
+errore da media(<0.1)	0.0740275
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  43	  44	 0.0519811
+ 43	  44	  13	  14	 0.0594340
+res media(Ohm)	0.0557075
+errore da media(>0.1)	0.1337851
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  44	  45	 0.0370051
+ 44	  45	  13	  14	 0.0430670
+res media(Ohm)	0.0400361
+errore da media(>0.1)	0.1514104
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  46	  45	 0.0804338
+ 45	  46	  14	  13	 0.0853580
+res media(Ohm)	0.0828959
+errore da media(<0.1)	0.0594021
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  47	  46	 0.1103067
+ 46	  47	  14	  13	 0.1178843
+res media(Ohm)	0.1140955
+errore da media(<0.1)	0.0664144
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	  48	  47	 0.0581110
+ 47	  48	  14	  13	 0.0545080
+res media(Ohm)	0.0563095
+errore da media(<0.1)	0.0639854
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 13	  14	   1	  48	 0.0039840
+  1	  48	  13	  14	 0.0085499
+res media(Ohm)	0.0062669
+errore da media(>0.1)	0.7285639
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  13	  16	 88.9607861
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  17	  16	 41.0197888
+ 16	  17	  15	  14	 40.3296149
+res media(Ohm)	40.6747019
+errore da media(<0.1)	0.0169681
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  18	  17	 6.5724654
+ 17	  18	  15	  14	 6.4610730
+res media(Ohm)	6.5167692
+errore da media(<0.1)	0.0170932
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  19	  18	 0.7366547
+ 18	  19	  15	  14	 0.6841445
+res media(Ohm)	0.7103996
+errore da media(<0.1)	0.0739164
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  19	  20	 0.0334353
+ 19	  20	  14	  15	 0.0317801
+res media(Ohm)	0.0326077
+errore da media(<0.1)	0.0507598
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  20	  21	 0.0711320
+ 20	  21	  14	  15	 0.0734498
+res media(Ohm)	0.0722909
+errore da media(<0.1)	0.0320623
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  22	  21	 0.2117026
+ 21	  22	  15	  14	 0.2085505
+res media(Ohm)	0.2101266
+errore da media(<0.1)	0.0150012
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  23	  22	 0.2512329
+ 22	  23	  15	  14	 0.2468610
+res media(Ohm)	0.2490469
+errore da media(<0.1)	0.0175543
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  24	  23	 0.0913905
+ 23	  24	  15	  14	 0.0739887
+res media(Ohm)	0.0826896
+errore da media(>0.1)	0.2104482
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  24	  25	 0.0534611
+ 24	  25	  14	  15	 0.0515786
+res media(Ohm)	0.0525199
+errore da media(<0.1)	0.0358436
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  25	  26	 0.1224260
+ 25	  26	  14	  15	 0.1034248
+res media(Ohm)	0.1129254
+errore da media(>0.1)	0.1682630
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  26	  27	 0.2563297
+ 26	  27	  14	  15	 0.2524689
+res media(Ohm)	0.2543993
+errore da media(<0.1)	0.0151762
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  27	  28	 0.1356448
+ 27	  28	  14	  15	 0.1354370
+res media(Ohm)	0.1355409
+errore da media(<0.1)	0.0015327
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  29	  28	 0.1177104
+ 28	  29	  15	  14	 0.1284653
+res media(Ohm)	0.1230878
+errore da media(<0.1)	0.0873760
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  30	  29	 0.1951677
+ 29	  30	  15	  14	 0.2047538
+res media(Ohm)	0.1999608
+errore da media(<0.1)	0.0479401
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  31	  30	 0.0201856	quad rif!
+ 30	  31	  14	  15	 0.0049815
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  32	  31	 0.4158194
+ 31	  32	  15	  14	 0.4362337
+res media(Ohm)	0.4260265
+errore da media(<0.1)	0.0479179
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  33	  32	 0.5807185
+ 32	  33	  15	  14	 0.5711597
+res media(Ohm)	0.5759391
+errore da media(<0.1)	0.0165969
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  34	  33	 1.4466495
+ 33	  34	  15	  14	 1.4455867
+res media(Ohm)	1.4461181
+errore da media(<0.1)	0.0007349
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  35	  34	 1.7667383
+ 34	  35	  15	  14	 1.7609542
+res media(Ohm)	1.7638462
+errore da media(<0.1)	0.0032793
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  36	  35	 1.8790352
+ 35	  36	  15	  14	 1.8604475
+res media(Ohm)	1.8697414
+errore da media(<0.1)	0.0099413
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  36	  37	 4.2396664
+ 36	  37	  14	  15	 4.1875936
+res media(Ohm)	4.2136300
+errore da media(<0.1)	0.0123582
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  37	  38	 0.8689214
+ 37	  38	  14	  15	 0.8505973
+res media(Ohm)	0.8597593
+errore da media(<0.1)	0.0213130
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  38	  39	 0.6671580
+ 38	  39	  14	  15	 0.6610272
+res media(Ohm)	0.6640926
+errore da media(<0.1)	0.0092319
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  39	  40	 0.3473877
+ 39	  40	  14	  15	 0.3532922
+res media(Ohm)	0.3503399
+errore da media(<0.1)	0.0168534
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  40	  41	 0.1053730
+ 40	  41	  14	  15	 0.0977918
+res media(Ohm)	0.1015824
+errore da media(<0.1)	0.0746312
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  41	  42	 0.1330056
+ 41	  42	  14	  15	 0.1406268
+res media(Ohm)	0.1368162
+errore da media(<0.1)	0.0557041
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  42	  43	 0.0345407
+ 42	  43	  14	  15	 0.0274429
+res media(Ohm)	0.0309918
+errore da media(>0.1)	0.2290212
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  43	  44	 0.0385859
+ 43	  44	  14	  15	 0.0426605
+res media(Ohm)	0.0406232
+errore da media(>0.1)	0.1003025
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  44	  45	 0.0298372
+ 44	  45	  14	  15	 0.0340225
+res media(Ohm)	0.0319299
+errore da media(>0.1)	0.1310763
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  46	  45	 0.1002465
+ 45	  46	  15	  14	 0.0982225
+res media(Ohm)	0.0992345
+errore da media(<0.1)	0.0203967
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  47	  46	 0.1492815
+ 46	  47	  15	  14	 0.1464139
+res media(Ohm)	0.1478477
+errore da media(<0.1)	0.0193953
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	  48	  47	 0.1158193
+ 47	  48	  15	  14	 0.1007641
+res media(Ohm)	0.1082917
+errore da media(>0.1)	0.1390242
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 14	  15	   1	  48	 0.0558562
+  1	  48	  14	  15	 0.0579177
+res media(Ohm)	0.0568870
+errore da media(<0.1)	0.0362383
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  14	  17	 52.9628408
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  18	  17	 10.1333449
+ 17	  18	  16	  15	 10.0537762
+res media(Ohm)	10.0935606
+errore da media(<0.1)	0.0078831
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  19	  18	 0.4697134
+ 18	  19	  16	  15	 0.4318092
+res media(Ohm)	0.4507613
+errore da media(<0.1)	0.0840894
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  19	  20	 0.1323941
+ 19	  20	  15	  16	 0.1228136
+res media(Ohm)	0.1276039
+errore da media(<0.1)	0.0750804
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  20	  21	 0.1011305
+ 20	  21	  15	  16	 0.1000057
+res media(Ohm)	0.1005681
+errore da media(<0.1)	0.0111842
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  22	  21	 0.2027581
+ 21	  22	  16	  15	 0.1973733
+res media(Ohm)	0.2000657
+errore da media(<0.1)	0.0269155
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  23	  22	 0.2216363
+ 22	  23	  16	  15	 0.2156084
+res media(Ohm)	0.2186223
+errore da media(<0.1)	0.0275723
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  24	  23	 0.0521495
+ 23	  24	  16	  15	 0.0347300
+res media(Ohm)	0.0434398
+errore da media(>0.1)	0.4010045
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  24	  25	 0.0638630
+ 24	  25	  15	  16	 0.0620365
+res media(Ohm)	0.0629498
+errore da media(<0.1)	0.0290144
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  25	  26	 0.0971844
+ 25	  26	  15	  16	 0.0771821
+res media(Ohm)	0.0871833
+errore da media(>0.1)	0.2294277
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  26	  27	 0.2266182
+ 26	  27	  15	  16	 0.2185241
+res media(Ohm)	0.2225712
+errore da media(<0.1)	0.0363664
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  27	  28	 0.1192172
+ 27	  28	  15	  16	 0.1171605
+res media(Ohm)	0.1181889
+errore da media(<0.1)	0.0174019
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  29	  28	 0.1023024
+ 28	  29	  16	  15	 0.1098115
+res media(Ohm)	0.1060570
+errore da media(<0.1)	0.0708022
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  30	  29	 0.1683029
+ 29	  30	  16	  15	 0.1746385
+res media(Ohm)	0.1714707
+errore da media(<0.1)	0.0369484
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  31	  30	 0.0109169	quad rif!
+ 30	  31	  15	  16	 0.0093422
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  32	  31	 0.3468321
+ 31	  32	  16	  15	 0.3642631
+res media(Ohm)	0.3555476
+errore da media(<0.1)	0.0490257
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  33	  32	 0.4813706
+ 32	  33	  16	  15	 0.4740293
+res media(Ohm)	0.4776999
+errore da media(<0.1)	0.0153680
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  34	  33	 1.1575186
+ 33	  34	  16	  15	 1.1591850
+res media(Ohm)	1.1583518
+errore da media(<0.1)	0.0014386
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  35	  34	 1.0478194
+ 34	  35	  16	  15	 1.0423585
+res media(Ohm)	1.0450890
+errore da media(<0.1)	0.0052253
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  36	  35	 0.5360627
+ 35	  36	  16	  15	 0.5178648
+res media(Ohm)	0.5269638
+errore da media(<0.1)	0.0345335
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  36	  37	 2.7403621
+ 36	  37	  15	  16	 2.7151767
+res media(Ohm)	2.7277694
+errore da media(<0.1)	0.0092330
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  37	  38	 0.4450924
+ 37	  38	  15	  16	 0.4250837
+res media(Ohm)	0.4350880
+errore da media(<0.1)	0.0459877
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  38	  39	 0.3595749
+ 38	  39	  15	  16	 0.3486557
+res media(Ohm)	0.3541153
+errore da media(<0.1)	0.0308354
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  39	  40	 0.1889337
+ 39	  40	  15	  16	 0.1881238
+res media(Ohm)	0.1885288
+errore da media(<0.1)	0.0042960
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  40	  41	 0.0546955
+ 40	  41	  15	  16	 0.0490944
+res media(Ohm)	0.0518950
+errore da media(>0.1)	0.1079330
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  41	  42	 0.0726118
+ 41	  42	  15	  16	 0.0754424
+res media(Ohm)	0.0740271
+errore da media(<0.1)	0.0382384
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  42	  43	 0.0149517
+ 42	  43	  15	  16	 0.0109273
+res media(Ohm)	0.0129395
+errore da media(>0.1)	0.3110173
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  43	  44	 0.0207513
+ 43	  44	  15	  16	 0.0225639
+res media(Ohm)	0.0216576
+errore da media(<0.1)	0.0836918
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  44	  45	 0.0169226
+ 44	  45	  15	  16	 0.0189839
+res media(Ohm)	0.0179532
+errore da media(>0.1)	0.1148168
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  46	  45	 0.0678279
+ 45	  46	  16	  15	 0.0630824
+res media(Ohm)	0.0654551
+errore da media(<0.1)	0.0724993
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  47	  46	 0.1051247
+ 46	  47	  16	  15	 0.0977894
+res media(Ohm)	0.1014571
+errore da media(<0.1)	0.0722987
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	  48	  47	 0.0927328
+ 47	  48	  16	  15	 0.0765620
+res media(Ohm)	0.0846474
+errore da media(>0.1)	0.1910369
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 15	  16	   1	  48	 0.0360774
+  1	  48	  15	  16	 0.0367509
+res media(Ohm)	0.0364142
+errore da media(<0.1)	0.0184957
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  15	  18	 67.5412259
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  19	  18	 12.5205849
+ 18	  19	  17	  16	 11.8011034
+res media(Ohm)	12.1608442
+errore da media(<0.1)	0.0591638
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  20	  19	 1.4147473
+ 19	  20	  17	  16	 1.3356172
+res media(Ohm)	1.3751823
+errore da media(<0.1)	0.0575415
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  21	  20	 0.3813460
+ 20	  21	  17	  16	 0.3617539
+res media(Ohm)	0.3715499
+errore da media(<0.1)	0.0527309
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  21	  22	 0.1315895
+ 21	  22	  16	  17	 0.1241628
+res media(Ohm)	0.1278762
+errore da media(<0.1)	0.0580772
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  22	  23	 0.0927317
+ 22	  23	  16	  17	 0.0852523
+res media(Ohm)	0.0889920
+errore da media(<0.1)	0.0840464
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  24	  23	 0.0610016
+ 23	  24	  17	  16	 0.0670172
+res media(Ohm)	0.0640094
+errore da media(<0.1)	0.0939796
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  25	  24	 0.1609410
+ 24	  25	  17	  16	 0.1557659
+res media(Ohm)	0.1583534
+errore da media(<0.1)	0.0326806
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  26	  25	 0.0365122
+ 25	  26	  17	  16	 0.0265374
+res media(Ohm)	0.0315248
+errore da media(>0.1)	0.3164106
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  27	  26	 0.0653042
+ 26	  27	  17	  16	 0.0539885
+res media(Ohm)	0.0596463
+errore da media(>0.1)	0.1897133
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  28	  27	 0.0306083
+ 27	  28	  17	  16	 0.0255586
+res media(Ohm)	0.0280834
+errore da media(>0.1)	0.1798114
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  29	  28	 0.0032689
+ 28	  29	  17	  16	 0.0060711
+res media(Ohm)	0.0046700
+errore da media(>0.1)	0.6000350
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  30	  29	 0.0202007
+ 29	  30	  17	  16	 0.0250685
+res media(Ohm)	0.0226346
+errore da media(>0.1)	0.2150605
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  31	  30	 0.0472038
+ 30	  31	  17	  16	 0.0429365
+res media(Ohm)	0.0450701
+errore da media(<0.1)	0.0946818
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  32	  31	 0.0966903
+ 31	  32	  17	  16	 0.1043434
+res media(Ohm)	0.1005169
+errore da media(<0.1)	0.0761372
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  33	  32	 0.1504249
+ 32	  33	  17	  16	 0.1592716
+res media(Ohm)	0.1548483
+errore da media(<0.1)	0.0571320
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  34	  33	 0.3134378
+ 33	  34	  17	  16	 0.3409649
+res media(Ohm)	0.3272013
+errore da media(<0.1)	0.0841290
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  35	  34	 0.2815929
+ 34	  35	  17	  16	 0.3023063
+res media(Ohm)	0.2919496
+errore da media(<0.1)	0.0709484
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  36	  35	 0.1634494
+ 35	  36	  17	  16	 0.1612941
+res media(Ohm)	0.1623718
+errore da media(<0.1)	0.0132740
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  36	  37	 0.7806553
+ 36	  37	  16	  17	 0.8307593
+res media(Ohm)	0.8057073
+errore da media(<0.1)	0.0621863
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  37	  38	 0.1128530
+ 37	  38	  16	  17	 0.1107516
+res media(Ohm)	0.1118023
+errore da media(<0.1)	0.0187958
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  38	  39	 0.0762502
+ 38	  39	  16	  17	 0.0789721
+res media(Ohm)	0.0776112
+errore da media(<0.1)	0.0350710
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  39	  40	 0.0370997
+ 39	  40	  16	  17	 0.0398567
+res media(Ohm)	0.0384782
+errore da media(<0.1)	0.0716520
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  40	  41	 0.0130575
+ 40	  41	  16	  17	 0.0123583
+res media(Ohm)	0.0127079
+errore da media(<0.1)	0.0550247
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  41	  42	 0.0151732
+ 41	  42	  16	  17	 0.0172414
+res media(Ohm)	0.0162073
+errore da media(>0.1)	0.1276108
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  42	  43	 0.0087947
+ 42	  43	  16	  17	 0.0073633
+res media(Ohm)	0.0080790
+errore da media(>0.1)	0.1771702
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  43	  44	 0.0052101
+ 43	  44	  16	  17	 0.0054507
+res media(Ohm)	0.0053304
+errore da media(<0.1)	0.0451500
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  44	  45	 0.0036202
+ 44	  45	  16	  17	 0.0038571
+res media(Ohm)	0.0037387
+errore da media(<0.1)	0.0633706
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  45	  46	 0.0039513
+ 45	  46	  16	  17	 0.0005710
+res media(Ohm)	0.0022612
+errore da media(>0.1)	1.4949275
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  46	  47	 0.0097716
+ 46	  47	  16	  17	 0.0037600
+res media(Ohm)	0.0067658
+errore da media(>0.1)	0.8885292
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  47	  48	 0.0203696
+ 47	  48	  16	  17	 0.0126118
+res media(Ohm)	0.0164907
+errore da media(>0.1)	0.4704321
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 16	  17	  48	   1	 0.0314519
+  1	  48	  17	  16	 0.0290900
+res media(Ohm)	0.0302709
+errore da media(<0.1)	0.0780266
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  16	  19	 33.7724888
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  20	  19	 7.1244521
+ 19	  20	  18	  17	 6.9636601
+res media(Ohm)	7.0440561
+errore da media(<0.1)	0.0228266
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  21	  20	 1.0728454
+ 20	  21	  18	  17	 1.0538511
+res media(Ohm)	1.0633483
+errore da media(<0.1)	0.0178627
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  21	  22	 0.1351552
+ 21	  22	  17	  18	 0.1425193
+res media(Ohm)	0.1388373
+errore da media(<0.1)	0.0530412
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  22	  23	 0.0266032
+ 22	  23	  17	  18	 0.0371649
+res media(Ohm)	0.0318841
+errore da media(>0.1)	0.3312526
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  24	  23	 0.1642195
+ 23	  24	  18	  17	 0.1649497
+res media(Ohm)	0.1645846
+errore da media(<0.1)	0.0044361
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  25	  24	 0.2297550
+ 24	  25	  18	  17	 0.2334893
+res media(Ohm)	0.2316221
+errore da media(<0.1)	0.0161224
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  26	  25	 0.0166516
+ 25	  26	  18	  17	 0.0178296
+res media(Ohm)	0.0172406
+errore da media(<0.1)	0.0683286
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  27	  26	 0.0098888
+ 26	  27	  18	  17	 0.0135881
+res media(Ohm)	0.0117384
+errore da media(>0.1)	0.3151376
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  28	  27	 0.0025396
+ 27	  28	  18	  17	 0.0038909
+res media(Ohm)	0.0032153
+errore da media(>0.1)	0.4202690
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  29	  28	 0.0317532
+ 28	  29	  18	  17	 0.0318568
+res media(Ohm)	0.0318050
+errore da media(<0.1)	0.0032588
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  30	  29	 0.0626484
+ 29	  30	  18	  17	 0.0622099
+res media(Ohm)	0.0624292
+errore da media(<0.1)	0.0070231
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  31	  30	 0.0314258
+ 30	  31	  18	  17	 0.0263112
+res media(Ohm)	0.0288685
+errore da media(>0.1)	0.1771710
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  32	  31	 0.1355462
+ 31	  32	  18	  17	 0.1386531
+res media(Ohm)	0.1370996
+errore da media(<0.1)	0.0226617
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  33	  32	 0.1815969
+ 32	  33	  18	  17	 0.1772737
+res media(Ohm)	0.1794353
+errore da media(<0.1)	0.0240935
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  34	  33	 0.4230251
+ 33	  34	  18	  17	 0.4190688
+res media(Ohm)	0.4210470
+errore da media(<0.1)	0.0093963
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  35	  34	 0.3697479
+ 34	  35	  18	  17	 0.3618598
+res media(Ohm)	0.3658038
+errore da media(<0.1)	0.0215639
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  36	  35	 0.1638057
+ 35	  36	  18	  17	 0.1486998
+res media(Ohm)	0.1562528
+errore da media(<0.1)	0.0966760
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  36	  37	 0.9609229
+ 36	  37	  17	  18	 0.9475484
+res media(Ohm)	0.9542357
+errore da media(<0.1)	0.0140159
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  37	  38	 0.1631177
+ 37	  38	  17	  18	 0.1476037
+res media(Ohm)	0.1553607
+errore da media(<0.1)	0.0998582
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  38	  39	 0.1300345
+ 38	  39	  17	  18	 0.1198205
+res media(Ohm)	0.1249275
+errore da media(<0.1)	0.0817596
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  39	  40	 0.0674853
+ 39	  40	  17	  18	 0.0639832
+res media(Ohm)	0.0657343
+errore da media(<0.1)	0.0532768
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  40	  41	 0.0205424
+ 40	  41	  17	  18	 0.0175325
+res media(Ohm)	0.0190375
+errore da media(>0.1)	0.1581039
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  41	  42	 0.0267826
+ 41	  42	  17	  18	 0.0261952
+res media(Ohm)	0.0264889
+errore da media(<0.1)	0.0221741
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  42	  43	 0.0078282
+ 42	  43	  17	  18	 0.0065354
+res media(Ohm)	0.0071818
+errore da media(>0.1)	0.1800124
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  43	  44	 0.0085195
+ 43	  44	  17	  18	 0.0086422
+res media(Ohm)	0.0085808
+errore da media(<0.1)	0.0142968
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  44	  45	 0.0069679
+ 44	  45	  17	  18	 0.0070091
+res media(Ohm)	0.0069885
+errore da media(<0.1)	0.0058981
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  46	  45	 0.0145206
+ 45	  46	  18	  17	 0.0123560
+res media(Ohm)	0.0134383
+errore da media(>0.1)	0.1610748
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  47	  46	 0.0191883
+ 46	  47	  18	  17	 0.0161983
+res media(Ohm)	0.0176933
+errore da media(>0.1)	0.1689953
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  48	  47	 0.0061154
+ 47	  48	  18	  17	 0.0029055
+res media(Ohm)	0.0045105
+errore da media(>0.1)	0.7116542
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 17	  18	  48	   1	 0.0249945
+  1	  48	  18	  17	 0.0263024
+res media(Ohm)	0.0256484
+errore da media(<0.1)	0.0509924
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  17	  20	 34.3462139
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  21	  20	 16.7197148
+ 20	  21	  19	  18	 16.0904036
+res media(Ohm)	16.4050592
+errore da media(<0.1)	0.0383608
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  21	  22	 0.6067967
+ 21	  22	  18	  19	 0.6632774
+res media(Ohm)	0.6350371
+errore da media(<0.1)	0.0889408
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  22	  23	 0.0266670
+ 22	  23	  18	  19	 0.0505620
+res media(Ohm)	0.0386145
+errore da media(>0.1)	0.6188079
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  24	  23	 0.9404996
+ 23	  24	  19	  18	 0.9513736
+res media(Ohm)	0.9459366
+errore da media(<0.1)	0.0114956
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  25	  24	 1.1353966
+ 24	  25	  19	  18	 1.1225976
+res media(Ohm)	1.1289971
+errore da media(<0.1)	0.0113366
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  26	  25	 0.1756611
+ 25	  26	  19	  18	 0.1504572
+res media(Ohm)	0.1630591
+errore da media(>0.1)	0.1545689
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  27	  26	 0.2758231
+ 26	  27	  19	  18	 0.2599801
+res media(Ohm)	0.2679016
+errore da media(<0.1)	0.0591373
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  28	  27	 0.1332462
+ 27	  28	  19	  18	 0.1262580
+res media(Ohm)	0.1297521
+errore da media(<0.1)	0.0538585
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  29	  28	 0.0013639	quad rif!
+ 28	  29	  18	  19	 0.0014330
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  30	  29	 0.0245245
+ 29	  30	  19	  18	 0.0247786
+res media(Ohm)	0.0246515
+errore da media(<0.1)	0.0103077
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  31	  30	 0.0778768
+ 30	  31	  19	  18	 0.0742211
+res media(Ohm)	0.0760489
+errore da media(<0.1)	0.0480703
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  32	  31	 0.0548155
+ 31	  32	  19	  18	 0.0559068
+res media(Ohm)	0.0553612
+errore da media(<0.1)	0.0197120
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  33	  32	 0.0682044
+ 32	  33	  19	  18	 0.0695729
+res media(Ohm)	0.0688887
+errore da media(<0.1)	0.0198667
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  34	  33	 0.1283221
+ 33	  34	  19	  18	 0.1385129
+res media(Ohm)	0.1334175
+errore da media(<0.1)	0.0763829
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  35	  34	 0.1123700
+ 34	  35	  19	  18	 0.1190438
+res media(Ohm)	0.1157069
+errore da media(<0.1)	0.0576785
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  36	  35	 0.0552766
+ 35	  36	  19	  18	 0.0499681
+res media(Ohm)	0.0526224
+errore da media(>0.1)	0.1008788
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  36	  37	 0.3285521
+ 36	  37	  18	  19	 0.3438799
+res media(Ohm)	0.3362160
+errore da media(<0.1)	0.0455890
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  37	  38	 0.0469922
+ 37	  38	  18	  19	 0.0441134
+res media(Ohm)	0.0455528
+errore da media(<0.1)	0.0631971
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  38	  39	 0.0244083
+ 38	  39	  18	  19	 0.0252572
+res media(Ohm)	0.0248328
+errore da media(<0.1)	0.0341829
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  39	  40	 0.0096743
+ 39	  40	  18	  19	 0.0105292
+res media(Ohm)	0.0101018
+errore da media(<0.1)	0.0846256
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  40	  41	 0.0055516
+ 40	  41	  18	  19	 0.0056128
+res media(Ohm)	0.0055822
+errore da media(<0.1)	0.0109703
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  41	  42	 0.0068009
+ 41	  42	  18	  19	 0.0066391
+res media(Ohm)	0.0067200
+errore da media(<0.1)	0.0240842
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  42	  43	 0.0094295
+ 42	  43	  18	  19	 0.0097726
+res media(Ohm)	0.0096010
+errore da media(<0.1)	0.0357339
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  43	  44	 0.0048419
+ 43	  44	  18	  19	 0.0043448
+res media(Ohm)	0.0045933
+errore da media(>0.1)	0.1082232
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  44	  45	 0.0034225
+ 44	  45	  18	  19	 0.0031680
+res media(Ohm)	0.0032953
+errore da media(<0.1)	0.0772457
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  45	  46	 0.0310960
+ 45	  46	  18	  19	 0.0261450
+res media(Ohm)	0.0286205
+errore da media(>0.1)	0.1729891
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  46	  47	 0.0573164
+ 46	  47	  18	  19	 0.0492185
+res media(Ohm)	0.0532674
+errore da media(>0.1)	0.1520246
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  47	  48	 0.0833967
+ 47	  48	  18	  19	 0.0690897
+res media(Ohm)	0.0762432
+errore da media(>0.1)	0.1876488
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 18	  19	  48	   1	 0.1567230
+  1	  48	  19	  18	 0.1556119
+res media(Ohm)	0.1561674
+errore da media(<0.1)	0.0071149
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  18	  21	 17.4717003
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  22	  21	 2.1158317
+ 21	  22	  20	  19	 1.9062045
+res media(Ohm)	2.0110181
+errore da media(>0.1)	0.1042394
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  23	  22	 2.5169909
+ 22	  23	  20	  19	 2.4602264
+res media(Ohm)	2.4886087
+errore da media(<0.1)	0.0228098
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  24	  23	 2.1586352
+ 23	  24	  20	  19	 2.1710986
+res media(Ohm)	2.1648669
+errore da media(<0.1)	0.0057571
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  25	  24	 1.1954489
+ 24	  25	  20	  19	 1.2073477
+res media(Ohm)	1.2013983
+errore da media(<0.1)	0.0099041
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  26	  25	 0.0987055
+ 25	  26	  20	  19	 0.0926725
+res media(Ohm)	0.0956890
+errore da media(<0.1)	0.0630483
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  27	  26	 0.1172874
+ 26	  27	  20	  19	 0.1183685
+res media(Ohm)	0.1178279
+errore da media(<0.1)	0.0091752
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  28	  27	 0.0546213
+ 27	  28	  20	  19	 0.0542916
+res media(Ohm)	0.0544565
+errore da media(<0.1)	0.0060552
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  29	  28	 0.0297527
+ 28	  29	  20	  19	 0.0274339
+res media(Ohm)	0.0285933
+errore da media(<0.1)	0.0810972
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  30	  29	 0.0456778
+ 29	  30	  20	  19	 0.0454247
+res media(Ohm)	0.0455512
+errore da media(<0.1)	0.0055550
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  31	  30	 0.0157894
+ 30	  31	  20	  19	 0.0127547
+res media(Ohm)	0.0142720
+errore da media(>0.1)	0.2126352
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  32	  31	 0.0428373
+ 31	  32	  20	  19	 0.0452928
+res media(Ohm)	0.0440651
+errore da media(<0.1)	0.0557232
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  33	  32	 0.0450315
+ 32	  33	  20	  19	 0.0434760
+res media(Ohm)	0.0442538
+errore da media(<0.1)	0.0351483
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  34	  33	 0.1221646
+ 33	  34	  20	  19	 0.1207171
+res media(Ohm)	0.1214408
+errore da media(<0.1)	0.0119191
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  35	  34	 0.1022007
+ 34	  35	  20	  19	 0.0981693
+res media(Ohm)	0.1001850
+errore da media(<0.1)	0.0402401
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  36	  35	 0.0259654
+ 35	  36	  20	  19	 0.0165225
+res media(Ohm)	0.0212439
+errore da media(>0.1)	0.4444971
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  36	  37	 0.2540272
+ 36	  37	  19	  20	 0.2527900
+res media(Ohm)	0.2534086
+errore da media(<0.1)	0.0048823
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  37	  38	 0.0497921
+ 37	  38	  19	  20	 0.0420371
+res media(Ohm)	0.0459146
+errore da media(>0.1)	0.1688998
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  38	  39	 0.0431357
+ 38	  39	  19	  20	 0.0375190
+res media(Ohm)	0.0403273
+errore da media(>0.1)	0.1392785
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  39	  40	 0.0232168
+ 39	  40	  19	  20	 0.0205126
+res media(Ohm)	0.0218647
+errore da media(>0.1)	0.1236783
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  40	  41	 0.0058122
+ 40	  41	  19	  20	 0.0052326
+res media(Ohm)	0.0055224
+errore da media(>0.1)	0.1049578
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  41	  42	 0.0097571
+ 41	  42	  19	  20	 0.0085339
+res media(Ohm)	0.0091455
+errore da media(>0.1)	0.1337406
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  42	  43	 0.0034110
+ 42	  43	  19	  20	 0.0027194
+res media(Ohm)	0.0030652
+errore da media(>0.1)	0.2256492
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  43	  44	 0.0041237
+ 43	  44	  19	  20	 0.0039761
+res media(Ohm)	0.0040499
+errore da media(<0.1)	0.0364478
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  44	  45	 0.0040133
+ 44	  45	  19	  20	 0.0037717
+res media(Ohm)	0.0038925
+errore da media(<0.1)	0.0620727
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  45	  46	 0.0005102
+ 45	  46	  19	  20	 0.0007777
+res media(Ohm)	0.0006439
+errore da media(>0.1)	0.4153743
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  46	  47	 0.0056360
+ 46	  47	  19	  20	 0.0057974
+res media(Ohm)	0.0057167
+errore da media(<0.1)	0.0282394
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  47	  48	 0.0233039
+ 47	  48	  19	  20	 0.0205519
+res media(Ohm)	0.0219279
+errore da media(>0.1)	0.1255021
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 19	  20	  48	   1	 0.0709847
+  1	  48	  20	  19	 0.0735610
+res media(Ohm)	0.0722729
+errore da media(<0.1)	0.0356478
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  19	  22	 63.2132160
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  23	  22	 36.1310926
+ 22	  23	  21	  20	 35.3412256
+res media(Ohm)	35.7361591
+errore da media(<0.1)	0.0221027
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  24	  23	 6.8247780
+ 23	  24	  21	  20	 6.6299977
+res media(Ohm)	6.7273879
+errore da media(<0.1)	0.0289533
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  25	  24	 1.8995084
+ 24	  25	  21	  20	 1.8407587
+res media(Ohm)	1.8701335
+errore da media(<0.1)	0.0314147
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  26	  25	 0.0855125
+ 25	  26	  21	  20	 0.0844789
+res media(Ohm)	0.0849957
+errore da media(<0.1)	0.0121611
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  27	  26	 0.0740101
+ 26	  27	  21	  20	 0.0757407
+res media(Ohm)	0.0748754
+errore da media(<0.1)	0.0231126
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  28	  27	 0.0322865
+ 27	  28	  21	  20	 0.0320426
+res media(Ohm)	0.0321645
+errore da media(<0.1)	0.0075835
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  29	  28	 0.0323656
+ 28	  29	  21	  20	 0.0311707
+res media(Ohm)	0.0317682
+errore da media(<0.1)	0.0376127
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  30	  29	 0.0397756
+ 29	  30	  21	  20	 0.0402408
+res media(Ohm)	0.0400082
+errore da media(<0.1)	0.0116263
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  30	  31	 0.0050419
+ 30	  31	  20	  21	 0.0075628
+res media(Ohm)	0.0063023
+errore da media(>0.1)	0.3999953
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  32	  31	 0.0264371
+ 31	  32	  21	  20	 0.0286633
+res media(Ohm)	0.0275502
+errore da media(<0.1)	0.0808053
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  33	  32	 0.0254603
+ 32	  33	  21	  20	 0.0242417
+res media(Ohm)	0.0248510
+errore da media(<0.1)	0.0490391
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  34	  33	 0.0827925
+ 33	  34	  21	  20	 0.0810061
+res media(Ohm)	0.0818993
+errore da media(<0.1)	0.0218111
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  35	  34	 0.0684662
+ 34	  35	  21	  20	 0.0646581
+res media(Ohm)	0.0665622
+errore da media(<0.1)	0.0572115
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  36	  35	 0.0134399
+ 35	  36	  21	  20	 0.0048101
+res media(Ohm)	0.0091250
+errore da media(>0.1)	0.9457236
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  36	  37	 0.1583027
+ 36	  37	  20	  21	 0.1560067
+res media(Ohm)	0.1571547
+errore da media(<0.1)	0.0146101
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  37	  38	 0.0357745
+ 37	  38	  20	  21	 0.0296927
+res media(Ohm)	0.0327336
+errore da media(>0.1)	0.1857963
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  38	  39	 0.0347998
+ 38	  39	  20	  21	 0.0298130
+res media(Ohm)	0.0323064
+errore da media(>0.1)	0.1543585
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  39	  40	 0.0193290
+ 39	  40	  20	  21	 0.0171238
+res media(Ohm)	0.0182264
+errore da media(>0.1)	0.1209861
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  40	  41	 0.0046021
+ 40	  41	  20	  21	 0.0038640
+res media(Ohm)	0.0042331
+errore da media(>0.1)	0.1743649
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  41	  42	 0.0070702
+ 41	  42	  20	  21	 0.0067174
+res media(Ohm)	0.0068938
+errore da media(<0.1)	0.0511690
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  42	  43	 0.0010535
+ 42	  43	  20	  21	 0.0005538
+res media(Ohm)	0.0008037
+errore da media(>0.1)	0.6216909
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  43	  44	 0.0029188
+ 43	  44	  20	  21	 0.0031388
+res media(Ohm)	0.0030288
+errore da media(<0.1)	0.0726415
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  44	  45	 0.0034781
+ 44	  45	  20	  21	 0.0032935
+res media(Ohm)	0.0033858
+errore da media(<0.1)	0.0545051
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  46	  45	 0.0061270
+ 45	  46	  21	  20	 0.0038286
+res media(Ohm)	0.0049778
+errore da media(>0.1)	0.4617315
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  47	  46	 0.0046115
+ 46	  47	  21	  20	 0.0028809
+res media(Ohm)	0.0037462
+errore da media(>0.1)	0.4619715
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  47	  48	 0.0081919
+ 47	  48	  20	  21	 0.0092671
+res media(Ohm)	0.0087295
+errore da media(>0.1)	0.1231678
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 20	  21	  48	   1	 0.0574761
+  1	  48	  21	  20	 0.0608423
+res media(Ohm)	0.0591592
+errore da media(<0.1)	0.0569010
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  24	  23	 31.9853665
+ 23	  24	  22	  21	 31.8893240
+res media(Ohm)	31.9373453
+errore da media(<0.1)	0.0030072
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  25	  24	 10.7340098
+ 24	  25	  22	  21	 10.7127225
+res media(Ohm)	10.7233662
+errore da media(<0.1)	0.0019851
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  26	  25	 1.0463158
+ 25	  26	  22	  21	 0.9989365
+res media(Ohm)	1.0226261
+errore da media(<0.1)	0.0463309
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  27	  26	 1.6033439
+ 26	  27	  22	  21	 1.5987007
+res media(Ohm)	1.6010223
+errore da media(<0.1)	0.0029001
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  28	  27	 0.7738480
+ 27	  28	  22	  21	 0.7754027
+res media(Ohm)	0.7746253
+errore da media(<0.1)	0.0020070
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  28	  29	 0.0317256
+ 28	  29	  21	  22	 0.0605952
+res media(Ohm)	0.0461604
+errore da media(>0.1)	0.6254208
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  30	  29	 0.0081043	quad rif!
+ 29	  30	  21	  22	 0.0038590
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  31	  30	 0.3171313
+ 30	  31	  22	  21	 0.3386740
+res media(Ohm)	0.3279027
+errore da media(<0.1)	0.0656984
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  31	  32	 0.0104500
+ 31	  32	  21	  22	 0.0282693
+res media(Ohm)	0.0193597
+errore da media(>0.1)	0.9204317
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  32	  33	 0.0210751
+ 32	  33	  21	  22	 0.0183551
+res media(Ohm)	0.0197151
+errore da media(>0.1)	0.1379636
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  33	  34	 0.2034371
+ 33	  34	  21	  22	 0.2060339
+res media(Ohm)	0.2047355
+errore da media(<0.1)	0.0126838
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  34	  35	 0.1527648
+ 34	  35	  21	  22	 0.1494311
+res media(Ohm)	0.1510979
+errore da media(<0.1)	0.0220634
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  36	  35	 0.0114352
+ 35	  36	  22	  21	 0.0247877
+res media(Ohm)	0.0181115
+errore da media(>0.1)	0.7372411
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  37	  36	 0.2949525
+ 36	  37	  22	  21	 0.2891373
+res media(Ohm)	0.2920449
+errore da media(<0.1)	0.0199120
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  38	  37	 0.0808453
+ 37	  38	  22	  21	 0.0734493
+res media(Ohm)	0.0771473
+errore da media(<0.1)	0.0958678
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  39	  38	 0.1137714
+ 38	  39	  22	  21	 0.1115064
+res media(Ohm)	0.1126389
+errore da media(<0.1)	0.0201080
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  40	  39	 0.0704577
+ 39	  40	  22	  21	 0.0735370
+res media(Ohm)	0.0719974
+errore da media(<0.1)	0.0427695
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  41	  40	 0.0091845
+ 40	  41	  22	  21	 0.0068033
+res media(Ohm)	0.0079939
+errore da media(>0.1)	0.2978730
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  42	  41	 0.0164152
+ 41	  42	  22	  21	 0.0196193
+res media(Ohm)	0.0180172
+errore da media(>0.1)	0.1778338
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  42	  43	 0.0294564
+ 42	  43	  21	  22	 0.0361429
+res media(Ohm)	0.0327997
+errore da media(>0.1)	0.2038588
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  43	  44	 0.0059715
+ 43	  44	  21	  22	 0.0054387
+res media(Ohm)	0.0057051
+errore da media(<0.1)	0.0933770
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  44	  45	 0.0052797
+ 44	  45	  21	  22	 0.0032897
+res media(Ohm)	0.0042847
+errore da media(>0.1)	0.4644529
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  45	  46	 0.1621332
+ 45	  46	  21	  22	 0.1606653
+res media(Ohm)	0.1613993
+errore da media(<0.1)	0.0090950
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  46	  47	 0.2931217
+ 46	  47	  21	  22	 0.2962756
+res media(Ohm)	0.2946986
+errore da media(<0.1)	0.0107022
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  47	  48	 0.4018872
+ 47	  48	  21	  22	 0.3919719
+res media(Ohm)	0.3969295
+errore da media(<0.1)	0.0249798
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 21	  22	  48	   1	 0.8022503
+  1	  48	  22	  21	 0.7954889
+res media(Ohm)	0.7988696
+errore da media(<0.1)	0.0084637
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  25	  24	 41.3058237
+ 24	  25	  23	  22	 41.2648998
+res media(Ohm)	41.2853617
+errore da media(<0.1)	0.0009912
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  26	  25	 2.1345665
+ 25	  26	  23	  22	 2.0612743
+res media(Ohm)	2.0979204
+errore da media(<0.1)	0.0349356
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  27	  26	 2.2679617
+ 26	  27	  23	  22	 2.2596033
+res media(Ohm)	2.2637825
+errore da media(<0.1)	0.0036922
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  28	  27	 1.0091071
+ 27	  28	  23	  22	 1.0093677
+res media(Ohm)	1.0092374
+errore da media(<0.1)	0.0002582
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  28	  29	 0.0225278
+ 28	  29	  22	  23	 0.0612125
+res media(Ohm)	0.0418701
+errore da media(>0.1)	0.9239191
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  30	  29	 0.0291185
+ 29	  30	  23	  22	 0.0123861
+res media(Ohm)	0.0207523
+errore da media(>0.1)	0.8062886
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  31	  30	 0.3969779
+ 30	  31	  23	  22	 0.4167011
+res media(Ohm)	0.4068395
+errore da media(<0.1)	0.0484792
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  31	  32	 0.0058188
+ 31	  32	  22	  23	 0.0286451
+res media(Ohm)	0.0172320
+errore da media(>0.1)	1.3246478
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  32	  33	 0.0206287
+ 32	  33	  22	  23	 0.0189517
+res media(Ohm)	0.0197902
+errore da media(<0.1)	0.0847399
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  33	  34	 0.2325435
+ 33	  34	  22	  23	 0.2346510
+res media(Ohm)	0.2335973
+errore da media(<0.1)	0.0090218
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  34	  35	 0.1799796
+ 34	  35	  22	  23	 0.1766593
+res media(Ohm)	0.1783194
+errore da media(<0.1)	0.0186200
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  36	  35	 0.0022516
+ 35	  36	  23	  22	 0.0147446
+res media(Ohm)	0.0084981
+errore da media(>0.1)	1.4701008
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  37	  36	 0.2709387
+ 36	  37	  23	  22	 0.2565542
+res media(Ohm)	0.2637464
+errore da media(<0.1)	0.0545391
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  38	  37	 0.0965014
+ 37	  38	  23	  22	 0.0886649
+res media(Ohm)	0.0925832
+errore da media(<0.1)	0.0846430
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  39	  38	 0.1566110
+ 38	  39	  23	  22	 0.1558227
+res media(Ohm)	0.1562168
+errore da media(<0.1)	0.0050461
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  40	  39	 0.1005810
+ 39	  40	  23	  22	 0.1069445
+res media(Ohm)	0.1037628
+errore da media(<0.1)	0.0613265
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  41	  40	 0.0107408
+ 40	  41	  23	  22	 0.0066706
+res media(Ohm)	0.0087057
+errore da media(>0.1)	0.4675273
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  42	  41	 0.0193461
+ 41	  42	  23	  22	 0.0240250
+res media(Ohm)	0.0216855
+errore da media(>0.1)	0.2157588
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  42	  43	 0.0543784
+ 42	  43	  22	  23	 0.0666849
+res media(Ohm)	0.0605317
+errore da media(>0.1)	0.2033060
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  43	  44	 0.0161611
+ 43	  44	  22	  23	 0.0161982
+res media(Ohm)	0.0161796
+errore da media(<0.1)	0.0022925
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  44	  45	 0.0168507
+ 44	  45	  22	  23	 0.0143741
+res media(Ohm)	0.0156124
+errore da media(>0.1)	0.1586301
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  45	  46	 0.2906787
+ 45	  46	  22	  23	 0.2897341
+res media(Ohm)	0.2902064
+errore da media(<0.1)	0.0032549
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  46	  47	 0.5198407
+ 46	  47	  22	  23	 0.5273718
+res media(Ohm)	0.5236062
+errore da media(<0.1)	0.0143832
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  47	  48	 0.7303159
+ 47	  48	  22	  23	 0.7157932
+res media(Ohm)	0.7230545
+errore da media(<0.1)	0.0200852
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 22	  23	  48	   1	 2.1840686
+  1	  48	  23	  22	 2.1675231
+res media(Ohm)	2.1757958
+errore da media(<0.1)	0.0076043
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  22	  25	 48.4637452
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  26	  25	 3.8143499
+ 25	  26	  24	  23	 3.8411842
+res media(Ohm)	3.8277670
+errore da media(<0.1)	0.0070104
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  27	  26	 1.7695727
+ 26	  27	  24	  23	 1.8556365
+res media(Ohm)	1.8126046
+errore da media(<0.1)	0.0474807
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  28	  27	 0.5525164
+ 27	  28	  24	  23	 0.5899489
+res media(Ohm)	0.5712326
+errore da media(<0.1)	0.0655293
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  29	  28	 0.0190366	quad rif!
+ 28	  29	  23	  24	 0.0066158
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  30	  29	 0.0417815
+ 29	  30	  24	  23	 0.0378282
+res media(Ohm)	0.0398049
+errore da media(<0.1)	0.0993158
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  31	  30	 0.1649981
+ 30	  31	  24	  23	 0.1940460
+res media(Ohm)	0.1795220
+errore da media(>0.1)	0.1618070
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  32	  31	 0.0089229
+ 31	  32	  24	  23	 0.0004188
+res media(Ohm)	0.0046709
+errore da media(>0.1)	1.8206735
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  32	  33	 0.0005505
+ 32	  33	  23	  24	 0.0011049
+res media(Ohm)	0.0008277
+errore da media(>0.1)	0.6697541
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  33	  34	 0.0632676
+ 33	  34	  23	  24	 0.0741213
+res media(Ohm)	0.0686945
+errore da media(>0.1)	0.1580002
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  34	  35	 0.0609201
+ 34	  35	  23	  24	 0.0656518
+res media(Ohm)	0.0632860
+errore da media(<0.1)	0.0747661
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  35	  36	 0.0259522
+ 35	  36	  23	  24	 0.0181717
+res media(Ohm)	0.0220620
+errore da media(>0.1)	0.3526643
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  36	  37	 0.0777577
+ 36	  37	  23	  24	 0.0785039
+res media(Ohm)	0.0781308
+errore da media(<0.1)	0.0095507
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  38	  37	 0.0342566
+ 37	  38	  24	  23	 0.0347208
+res media(Ohm)	0.0344887
+errore da media(<0.1)	0.0134618
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  39	  38	 0.1009252
+ 38	  39	  24	  23	 0.1103260
+res media(Ohm)	0.1056256
+errore da media(<0.1)	0.0890018
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  40	  39	 0.0714022
+ 39	  40	  24	  23	 0.0843833
+res media(Ohm)	0.0778927
+errore da media(>0.1)	0.1666537
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  41	  40	 0.0023407	quad rif!
+ 40	  41	  23	  24	 0.0008874
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  42	  41	 0.0045550
+ 41	  42	  24	  23	 0.0097176
+res media(Ohm)	0.0071363
+errore da media(>0.1)	0.7234240
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  42	  43	 0.0688336
+ 42	  43	  23	  24	 0.0862318
+res media(Ohm)	0.0775327
+errore da media(>0.1)	0.2243984
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  43	  44	 0.0313832
+ 43	  44	  23	  24	 0.0343247
+res media(Ohm)	0.0328540
+errore da media(<0.1)	0.0895328
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  44	  45	 0.0366189
+ 44	  45	  23	  24	 0.0373062
+res media(Ohm)	0.0369625
+errore da media(<0.1)	0.0185961
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  45	  46	 0.3574574
+ 45	  46	  23	  24	 0.3725435
+res media(Ohm)	0.3650005
+errore da media(<0.1)	0.0413318
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  46	  47	 0.6497154
+ 46	  47	  23	  24	 0.6914487
+res media(Ohm)	0.6705821
+errore da media(<0.1)	0.0622345
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  47	  48	 1.0171022
+ 47	  48	  23	  24	 1.0474422
+res media(Ohm)	1.0322722
+errore da media(<0.1)	0.0293916
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 23	  24	  48	   1	 3.6994747
+  1	  48	  24	  23	 3.6703413
+res media(Ohm)	3.6849080
+errore da media(<0.1)	0.0079061
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  23	  26	 116.6960178
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  27	  26	 45.5622449
+ 26	  27	  25	  24	 45.4380806
+res media(Ohm)	45.5001628
+errore da media(<0.1)	0.0027289
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  28	  27	 9.5765057
+ 27	  28	  25	  24	 9.6414472
+res media(Ohm)	9.6089764
+errore da media(<0.1)	0.0067584
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  28	  29	 0.3907799
+ 28	  29	  24	  25	 0.9235682
+res media(Ohm)	0.6571740
+errore da media(>0.1)	0.8107264
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  30	  29	 1.8008431
+ 29	  30	  25	  24	 2.1315135
+res media(Ohm)	1.9661783
+errore da media(>0.1)	0.1681793
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  31	  30	 2.4082694
+ 30	  31	  25	  24	 2.3767930
+res media(Ohm)	2.3925312
+errore da media(<0.1)	0.0131561
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  32	  31	 0.4516010
+ 31	  32	  25	  24	 0.4074966
+res media(Ohm)	0.4295488
+errore da media(>0.1)	0.1026761
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  32	  33	 0.0968642
+ 32	  33	  24	  25	 0.0364320
+res media(Ohm)	0.0666481
+errore da media(>0.1)	0.9067347
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  33	  34	 0.6895273
+ 33	  34	  24	  25	 1.1346742
+res media(Ohm)	0.9121007
+errore da media(>0.1)	0.4880458
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  35	  34	 0.3909014
+ 34	  35	  25	  24	 1.2190234
+res media(Ohm)	0.8049624
+errore da media(>0.1)	1.0287711
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  36	  35	 0.1731043
+ 35	  36	  25	  24	 0.3127429
+res media(Ohm)	0.2429236
+errore da media(>0.1)	0.5748252
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  37	  36	 0.5346990
+ 36	  37	  25	  24	 0.5028247
+res media(Ohm)	0.5187619
+errore da media(<0.1)	0.0614431
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  37	  38	 0.0043397
+ 37	  38	  24	  25	 0.0084496
+res media(Ohm)	0.0063947
+errore da media(>0.1)	0.6427056
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  39	  38	 0.0456319
+ 38	  39	  25	  24	 0.0413667
+res media(Ohm)	0.0434993
+errore da media(<0.1)	0.0980524
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  40	  39	 0.0358651
+ 39	  40	  25	  24	 0.0363408
+res media(Ohm)	0.0361029
+errore da media(<0.1)	0.0131755
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  40	  41	 0.0144280
+ 40	  41	  24	  25	 0.0178224
+res media(Ohm)	0.0161252
+errore da media(>0.1)	0.2105059
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  41	  42	 0.0194304
+ 41	  42	  24	  25	 0.0169563
+res media(Ohm)	0.0181934
+errore da media(>0.1)	0.1359889
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  42	  43	 0.1690545
+ 42	  43	  24	  25	 0.1723008
+res media(Ohm)	0.1706777
+errore da media(<0.1)	0.0190200
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  43	  44	 0.1127229
+ 43	  44	  24	  25	 0.1066865
+res media(Ohm)	0.1097047
+errore da media(<0.1)	0.0550237
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  44	  45	 0.1117839
+ 44	  45	  24	  25	 0.1011215
+res media(Ohm)	0.1064527
+errore da media(>0.1)	0.1001610
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  45	  46	 0.8170895
+ 45	  46	  24	  25	 0.8108111
+res media(Ohm)	0.8139503
+errore da media(<0.1)	0.0077135
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  46	  47	 2.2105503
+ 46	  47	  24	  25	 2.2319481
+res media(Ohm)	2.2212492
+errore da media(<0.1)	0.0096332
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	  47	  48	 3.9231733
+ 47	  48	  24	  25	 3.9144576
+res media(Ohm)	3.9188155
+errore da media(<0.1)	0.0022241
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 24	  25	   1	  48	 14.1970900
+  1	  48	  24	  25	 14.2911642
+res media(Ohm)	14.2441271
+errore da media(<0.1)	0.0066044
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  24	  27	 46.5610084
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  28	  27	 30.6018423
+ 27	  28	  26	  25	 30.0105267
+res media(Ohm)	30.3061845
+errore da media(<0.1)	0.0195114
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  29	  28	 7.0741140
+ 28	  29	  26	  25	 6.7205974
+res media(Ohm)	6.8973557
+errore da media(<0.1)	0.0512539
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  30	  29	 1.0620562
+ 29	  30	  26	  25	 0.6404216
+res media(Ohm)	0.8512389
+errore da media(>0.1)	0.4953188
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  31	  30	 0.5692091
+ 30	  31	  26	  25	 0.4324290
+res media(Ohm)	0.5008190
+errore da media(>0.1)	0.2731128
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  32	  31	 0.0750041
+ 31	  32	  26	  25	 0.0362803
+res media(Ohm)	0.0556422
+errore da media(>0.1)	0.6959434
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  33	  32	 0.1857086
+ 32	  33	  26	  25	 0.1798139
+res media(Ohm)	0.1827612
+errore da media(<0.1)	0.0322534
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  34	  33	 0.4166125
+ 33	  34	  26	  25	 0.9719579
+res media(Ohm)	0.6942852
+errore da media(>0.1)	0.7998807
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  34	  35	 0.1979792
+ 34	  35	  25	  26	 1.1071189
+res media(Ohm)	0.6525491
+errore da media(>0.1)	1.3932127
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  36	  35	 0.0033409	quad rif!
+ 35	  36	  25	  26	 0.1110945
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  36	  37	 0.0223651
+ 36	  37	  25	  26	 0.1305155
+res media(Ohm)	0.0764403
+errore da media(>0.1)	1.4148351
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  37	  38	 0.0421668
+ 37	  38	  25	  26	 0.0403361
+res media(Ohm)	0.0412514
+errore da media(<0.1)	0.0443788
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  38	  39	 0.1206178
+ 38	  39	  25	  26	 0.1295639
+res media(Ohm)	0.1250909
+errore da media(<0.1)	0.0715165
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  39	  40	 0.0866534
+ 39	  40	  25	  26	 0.1008111
+res media(Ohm)	0.0937322
+errore da media(>0.1)	0.1510442
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  41	  40	 0.0005364
+ 40	  41	  26	  25	 0.0046249
+res media(Ohm)	0.0025807
+errore da media(>0.1)	1.5843021
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  42	  41	 0.0037268	quad rif!
+ 41	  42	  25	  26	 0.0020300
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  43	  42	 0.1351511
+ 42	  43	  26	  25	 0.1567565
+res media(Ohm)	0.1459538
+errore da media(>0.1)	0.1480297
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  44	  43	 0.0862406
+ 43	  44	  26	  25	 0.0872928
+res media(Ohm)	0.0867667
+errore da media(<0.1)	0.0121271
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  45	  44	 0.1040530
+ 44	  45	  26	  25	 0.1011108
+res media(Ohm)	0.1025819
+errore da media(<0.1)	0.0286809
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  46	  45	 0.7441772
+ 45	  46	  26	  25	 0.7647604
+res media(Ohm)	0.7544688
+errore da media(<0.1)	0.0272816
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  47	  46	 1.7227559
+ 46	  47	  26	  25	 1.7912307
+res media(Ohm)	1.7569933
+errore da media(<0.1)	0.0389728
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  48	  47	 3.3006437
+ 47	  48	  26	  25	 3.3593142
+res media(Ohm)	3.3299789
+errore da media(<0.1)	0.0176189
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 25	  26	  48	   1	 3.6918128
+  1	  48	  26	  25	 3.7488494
+res media(Ohm)	3.7203311
+errore da media(<0.1)	0.0153311
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  25	  28	 73.8579902
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  29	  28	 19.8061762
+ 28	  29	  27	  26	 18.1366979
+res media(Ohm)	18.9714371
+errore da media(<0.1)	0.0879996
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  30	  29	 2.3855448
+ 29	  30	  27	  26	 3.2303136
+res media(Ohm)	2.8079292
+errore da media(>0.1)	0.3008512
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  30	  31	 0.0221322	quad rif!
+ 30	  31	  27	  26	 0.1717185
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  32	  31	 0.0573257
+ 31	  32	  27	  26	 0.1059065
+res media(Ohm)	0.0816161
+errore da media(>0.1)	0.5952358
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  32	  33	 0.0382814
+ 32	  33	  26	  27	 0.0294816
+res media(Ohm)	0.0338815
+errore da media(>0.1)	0.2597228
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  34	  33	 0.1929423
+ 33	  34	  27	  26	 0.1955133
+res media(Ohm)	0.1942278
+errore da media(<0.1)	0.0132369
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  35	  34	 0.1865022
+ 34	  35	  27	  26	 0.1394006
+res media(Ohm)	0.1629514
+errore da media(>0.1)	0.2890527
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  35	  36	 0.4451521
+ 35	  36	  26	  27	 0.7090194
+res media(Ohm)	0.5770857
+errore da media(>0.1)	0.4572410
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  37	  36	 0.2290266
+ 36	  37	  27	  26	 0.1382767
+res media(Ohm)	0.1836516
+errore da media(>0.1)	0.4941412
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  37	  38	 0.1037783
+ 37	  38	  26	  27	 0.0954985
+res media(Ohm)	0.0996384
+errore da media(<0.1)	0.0830981
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  38	  39	 0.1920872
+ 38	  39	  26	  27	 0.1929366
+res media(Ohm)	0.1925119
+errore da media(<0.1)	0.0044125
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  39	  40	 0.1271367
+ 39	  40	  26	  27	 0.1353750
+res media(Ohm)	0.1312558
+errore da media(<0.1)	0.0627651
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  40	  41	 0.0040702	quad rif!
+ 40	  41	  27	  26	 0.0004921
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  41	  42	 0.0150364
+ 41	  42	  26	  27	 0.0207235
+res media(Ohm)	0.0178799
+errore da media(>0.1)	0.3180723
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  43	  42	 0.1274737
+ 42	  43	  27	  26	 0.1426891
+res media(Ohm)	0.1350814
+errore da media(>0.1)	0.1126393
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  44	  43	 0.0588183
+ 43	  44	  27	  26	 0.0563368
+res media(Ohm)	0.0575776
+errore da media(<0.1)	0.0430985
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  45	  44	 0.0538259
+ 44	  45	  27	  26	 0.0466434
+res media(Ohm)	0.0502347
+errore da media(>0.1)	0.1429784
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  46	  45	 0.6217674
+ 45	  46	  27	  26	 0.6209312
+res media(Ohm)	0.6213493
+errore da media(<0.1)	0.0013458
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  47	  46	 1.3762492
+ 46	  47	  27	  26	 1.3932564
+res media(Ohm)	1.3847528
+errore da media(<0.1)	0.0122817
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  48	  47	 1.9781652
+ 47	  48	  27	  26	 1.9635313
+res media(Ohm)	1.9708482
+errore da media(<0.1)	0.0074252
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 26	  27	  48	   1	 2.4517001
+  1	  48	  27	  26	 2.4506380
+res media(Ohm)	2.4511690
+errore da media(<0.1)	0.0004333
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  26	  29	 44.6013717
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  30	  29	 3.4044951
+ 29	  30	  28	  27	 2.6277675
+res media(Ohm)	3.0161313
+errore da media(>0.1)	0.2575245
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  30	  31	 0.7591646
+ 30	  31	  27	  28	 1.0651379
+res media(Ohm)	0.9121512
+errore da media(>0.1)	0.3354414
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  31	  32	 0.1804083
+ 31	  32	  27	  28	 0.1868216
+res media(Ohm)	0.1836149
+errore da media(<0.1)	0.0349283
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  33	  32	 0.0068408
+ 32	  33	  28	  27	 0.0311965
+res media(Ohm)	0.0190186
+errore da media(>0.1)	1.2806251
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  34	  33	 0.2257832
+ 33	  34	  28	  27	 0.3392022
+res media(Ohm)	0.2824927
+errore da media(>0.1)	0.4014935
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  35	  34	 0.1931684
+ 34	  35	  28	  27	 0.1442600
+res media(Ohm)	0.1687142
+errore da media(>0.1)	0.2898891
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  36	  35	 0.3353014
+ 35	  36	  28	  27	 0.5891285
+res media(Ohm)	0.4622150
+errore da media(>0.1)	0.5491539
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  36	  37	 0.7886649
+ 36	  37	  27	  28	 0.7414718
+res media(Ohm)	0.7650683
+errore da media(<0.1)	0.0616849
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  37	  38	 0.0636000
+ 37	  38	  27	  28	 0.0501338
+res media(Ohm)	0.0568669
+errore da media(>0.1)	0.2368023
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  38	  39	 0.0947477
+ 38	  39	  27	  28	 0.0864671
+res media(Ohm)	0.0906074
+errore da media(<0.1)	0.0913902
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  39	  40	 0.0594651
+ 39	  40	  27	  28	 0.0584135
+res media(Ohm)	0.0589393
+errore da media(<0.1)	0.0178424
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  40	  41	 0.0050512
+ 40	  41	  27	  28	 0.0019793
+res media(Ohm)	0.0035153
+errore da media(>0.1)	0.8738656
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  41	  42	 0.0096344
+ 41	  42	  27	  28	 0.0123081
+res media(Ohm)	0.0109712
+errore da media(>0.1)	0.2436948
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  43	  42	 0.0423092
+ 42	  43	  28	  27	 0.0486507
+res media(Ohm)	0.0454799
+errore da media(>0.1)	0.1394343
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  44	  43	 0.0158882
+ 43	  44	  28	  27	 0.0152012
+res media(Ohm)	0.0155447
+errore da media(<0.1)	0.0441925
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  45	  44	 0.0120836
+ 44	  45	  28	  27	 0.0098106
+res media(Ohm)	0.0109471
+errore da media(>0.1)	0.2076407
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  46	  45	 0.2100765
+ 45	  46	  28	  27	 0.2057215
+res media(Ohm)	0.2078990
+errore da media(<0.1)	0.0209478
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  47	  46	 0.4486782
+ 46	  47	  28	  27	 0.4480443
+res media(Ohm)	0.4483613
+errore da media(<0.1)	0.0014137
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  48	  47	 0.6155420
+ 47	  48	  28	  27	 0.5999373
+res media(Ohm)	0.6077396
+errore da media(<0.1)	0.0256766
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 27	  28	  48	   1	 0.6714424
+  1	  48	  28	  27	 0.6752336
+res media(Ohm)	0.6733380
+errore da media(<0.1)	0.0056304
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  27	  30	 46.0035063
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  31	  30	 19.2029702
+ 30	  31	  29	  28	 19.0047470
+res media(Ohm)	19.1038586
+errore da media(<0.1)	0.0103761
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  31	  32	 0.4302243
+ 31	  32	  28	  29	 0.3806636
+res media(Ohm)	0.4054439
+errore da media(>0.1)	0.1222381
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  33	  32	 1.8785113
+ 32	  33	  29	  28	 2.1855898
+res media(Ohm)	2.0320506
+errore da media(>0.1)	0.1511176
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  34	  33	 0.1006360
+ 33	  34	  29	  28	 0.2869446
+res media(Ohm)	0.1937903
+errore da media(>0.1)	0.9613931
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  35	  34	 0.1088792
+ 34	  35	  29	  28	 0.0025213
+res media(Ohm)	0.0557003
+errore da media(>0.1)	1.9094696
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  36	  35	 0.2345323
+ 35	  36	  29	  28	 0.3189849
+res media(Ohm)	0.2767586
+errore da media(>0.1)	0.3051491
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  37	  36	 0.7523582
+ 36	  37	  29	  28	 0.6194065
+res media(Ohm)	0.6858823
+errore da media(>0.1)	0.1938404
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  38	  37	 0.0673460
+ 37	  38	  29	  28	 0.0547902
+res media(Ohm)	0.0610681
+errore da media(>0.1)	0.2056042
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  39	  38	 0.0811829
+ 38	  39	  29	  28	 0.0716104
+res media(Ohm)	0.0763966
+errore da media(>0.1)	0.1253006
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  40	  39	 0.0472691
+ 39	  40	  29	  28	 0.0433164
+res media(Ohm)	0.0452928
+errore da media(<0.1)	0.0872704
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  41	  40	 0.0071780
+ 40	  41	  29	  28	 0.0045807
+res media(Ohm)	0.0058794
+errore da media(>0.1)	0.4417694
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  42	  41	 0.0185645
+ 41	  42	  29	  28	 0.0181749
+res media(Ohm)	0.0183697
+errore da media(<0.1)	0.0212128
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  42	  43	 0.0075266
+ 42	  43	  28	  29	 0.0088556
+res media(Ohm)	0.0081911
+errore da media(>0.1)	0.1622456
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  44	  43	 0.0065535
+ 43	  44	  29	  28	 0.0070575
+res media(Ohm)	0.0068055
+errore da media(<0.1)	0.0740567
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  45	  44	 0.0143365
+ 44	  45	  29	  28	 0.0146188
+res media(Ohm)	0.0144776
+errore da media(<0.1)	0.0195008
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  45	  46	 0.0315957
+ 45	  46	  28	  29	 0.0246675
+res media(Ohm)	0.0281316
+errore da media(>0.1)	0.2462771
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  46	  47	 0.0492196
+ 46	  47	  28	  29	 0.0370548
+res media(Ohm)	0.0431372
+errore da media(>0.1)	0.2820030
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	  47	  48	 0.0317705
+ 47	  48	  28	  29	 0.0145438
+res media(Ohm)	0.0231571
+errore da media(>0.1)	0.7439074
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 28	  29	   1	  48	 0.0213985
+  1	  48	  28	  29	 0.0094366
+res media(Ohm)	0.0154175
+errore da media(>0.1)	0.7758659
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  28	  31	 21.3025675
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  32	  31	 11.0265495
+ 31	  32	  30	  29	 10.6120852
+res media(Ohm)	10.8193173
+errore da media(<0.1)	0.0383078
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  33	  32	 0.1451713	quad rif!
+ 32	  33	  29	  30	 0.3086128
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  33	  34	 1.1890425
+ 33	  34	  29	  30	 1.3555040
+res media(Ohm)	1.2722733
+errore da media(>0.1)	0.1308378
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  35	  34	 0.0797007	quad rif!
+ 34	  35	  29	  30	 0.1144914
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  36	  35	 0.4478461
+ 35	  36	  30	  29	 0.7338736
+res media(Ohm)	0.5908598
+errore da media(>0.1)	0.4840869
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  37	  36	 1.6878881
+ 36	  37	  30	  29	 1.6268444
+res media(Ohm)	1.6573662
+errore da media(<0.1)	0.0368318
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  38	  37	 0.1111899
+ 37	  38	  30	  29	 0.0980396
+res media(Ohm)	0.1046148
+errore da media(>0.1)	0.1257024
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  39	  38	 0.1199385
+ 38	  39	  30	  29	 0.1118832
+res media(Ohm)	0.1159108
+errore da media(<0.1)	0.0694963
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  40	  39	 0.0668684
+ 39	  40	  30	  29	 0.0642116
+res media(Ohm)	0.0655400
+errore da media(<0.1)	0.0405378
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  41	  40	 0.0145186
+ 40	  41	  30	  29	 0.0109970
+res media(Ohm)	0.0127578
+errore da media(>0.1)	0.2760373
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  42	  41	 0.0299171
+ 41	  42	  30	  29	 0.0304801
+res media(Ohm)	0.0301986
+errore da media(<0.1)	0.0186442
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  43	  42	 0.0039501
+ 42	  43	  30	  29	 0.0017805
+res media(Ohm)	0.0028653
+errore da media(>0.1)	0.7572013
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  44	  43	 0.0117747
+ 43	  44	  30	  29	 0.0118876
+res media(Ohm)	0.0118311
+errore da media(<0.1)	0.0095422
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  45	  44	 0.0151766
+ 44	  45	  30	  29	 0.0152464
+res media(Ohm)	0.0152115
+errore da media(<0.1)	0.0045921
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  45	  46	 0.0162574
+ 45	  46	  29	  30	 0.0137415
+res media(Ohm)	0.0149995
+errore da media(>0.1)	0.1677340
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  46	  47	 0.0160146
+ 46	  47	  29	  30	 0.0116900
+res media(Ohm)	0.0138523
+errore da media(>0.1)	0.3121957
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  48	  47	 0.0138137
+ 47	  48	  30	  29	 0.0178986
+res media(Ohm)	0.0158561
+errore da media(>0.1)	0.2576184
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 29	  30	  48	   1	 0.0340187
+  1	  48	  30	  29	 0.0360219
+res media(Ohm)	0.0350203
+errore da media(<0.1)	0.0572014
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  29	  32	 37.8445772
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  33	  32	 12.3919686
+ 32	  33	  31	  30	 12.5386365
+res media(Ohm)	12.4653025
+errore da media(<0.1)	0.0117661
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  34	  33	 1.5884717
+ 33	  34	  31	  30	 1.4964029
+res media(Ohm)	1.5424373
+errore da media(<0.1)	0.0596905
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  34	  35	 1.8529551
+ 34	  35	  30	  31	 0.7185407
+res media(Ohm)	1.2857479
+errore da media(>0.1)	0.8822992
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  36	  35	 3.4654692
+ 35	  36	  31	  30	 3.1122165
+res media(Ohm)	3.2888429
+errore da media(>0.1)	0.1074094
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  37	  36	 0.1649827
+ 36	  37	  31	  30	 0.3167648
+res media(Ohm)	0.2408737
+errore da media(>0.1)	0.6301313
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  38	  37	 0.0158780
+ 37	  38	  31	  30	 0.0240206
+res media(Ohm)	0.0199493
+errore da media(>0.1)	0.4081654
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  38	  39	 0.0121916	quad rif!
+ 38	  39	  31	  30	 0.0001674
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  39	  40	 0.0129061
+ 39	  40	  30	  31	 0.0073769
+res media(Ohm)	0.0101415
+errore da media(>0.1)	0.5452040
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  41	  40	 0.0070181
+ 40	  41	  31	  30	 0.0079533
+res media(Ohm)	0.0074857
+errore da media(>0.1)	0.1249412
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  42	  41	 0.0088282
+ 41	  42	  31	  30	 0.0093774
+res media(Ohm)	0.0091028
+errore da media(<0.1)	0.0603418
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  43	  42	 0.0360721
+ 42	  43	  31	  30	 0.0379731
+res media(Ohm)	0.0370226
+errore da media(<0.1)	0.0513480
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  44	  43	 0.0059251
+ 43	  44	  31	  30	 0.0057562
+res media(Ohm)	0.0058407
+errore da media(<0.1)	0.0289225
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  44	  45	 0.0065126
+ 44	  45	  30	  31	 0.0072363
+res media(Ohm)	0.0068744
+errore da media(>0.1)	0.1052660
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  46	  45	 0.0941299
+ 45	  46	  31	  30	 0.0873104
+res media(Ohm)	0.0907202
+errore da media(<0.1)	0.0751703
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  47	  46	 0.1861666
+ 46	  47	  31	  30	 0.1773909
+res media(Ohm)	0.1817787
+errore da media(<0.1)	0.0482769
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  48	  47	 0.2332454
+ 47	  48	  31	  30	 0.2103507
+res media(Ohm)	0.2217981
+errore da media(>0.1)	0.1032229
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 30	  31	  48	   1	 0.2224212
+  1	  48	  31	  30	 0.2201273
+res media(Ohm)	0.2212743
+errore da media(<0.1)	0.0103667
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  34	  33	 14.2977671
+ 33	  34	  32	  31	 14.2732578
+res media(Ohm)	14.2855124
+errore da media(<0.1)	0.0017157
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  35	  34	 9.8866514
+ 34	  35	  32	  31	 9.5913251
+res media(Ohm)	9.7389883
+errore da media(<0.1)	0.0303241
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  36	  35	 1.8607903
+ 35	  36	  32	  31	 1.5227817
+res media(Ohm)	1.6917860
+errore da media(>0.1)	0.1997939
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  37	  36	 1.8261143
+ 36	  37	  32	  31	 1.7262111
+res media(Ohm)	1.7761627
+errore da media(<0.1)	0.0562466
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  38	  37	 0.2530560
+ 37	  38	  32	  31	 0.2286225
+res media(Ohm)	0.2408393
+errore da media(>0.1)	0.1014515
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  39	  38	 0.2728586
+ 38	  39	  32	  31	 0.2597695
+res media(Ohm)	0.2663140
+errore da media(<0.1)	0.0491494
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  40	  39	 0.1522580
+ 39	  40	  32	  31	 0.1484227
+res media(Ohm)	0.1503404
+errore da media(<0.1)	0.0255107
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  41	  40	 0.0417327
+ 40	  41	  32	  31	 0.3969448
+res media(Ohm)	0.2193387
+errore da media(>0.1)	1.6194682
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  42	  41	 0.0916540
+ 41	  42	  32	  31	 0.0907040
+res media(Ohm)	0.0911790
+errore da media(<0.1)	0.0104193
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  43	  42	 0.0352192
+ 42	  43	  32	  31	 0.0314592
+res media(Ohm)	0.0333392
+errore da media(>0.1)	0.1127799
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  44	  43	 0.0229916
+ 43	  44	  32	  31	 0.0224122
+res media(Ohm)	0.0227019
+errore da media(<0.1)	0.0255230
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  45	  44	 0.0168293
+ 44	  45	  32	  31	 0.0173258
+res media(Ohm)	0.0170775
+errore da media(<0.1)	0.0290779
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  45	  46	 0.0216429
+ 45	  46	  31	  32	 0.0172898
+res media(Ohm)	0.0194664
+errore da media(>0.1)	0.2236253
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  46	  47	 0.0280825
+ 46	  47	  31	  32	 0.0212693
+res media(Ohm)	0.0246759
+errore da media(>0.1)	0.2761103
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  47	  48	 0.0080095	quad rif!
+ 47	  48	  32	  31	 0.0002142
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 31	  32	  48	   1	 0.0091983
+  1	  48	  32	  31	 0.0137794
+res media(Ohm)	0.0114888
+errore da media(>0.1)	0.3987505
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  35	  34	 36.2527872
+ 34	  35	  33	  32	 36.6172070
+res media(Ohm)	36.4349971
+errore da media(<0.1)	0.0100019
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  36	  35	 8.3473816
+ 35	  36	  33	  32	 8.4886982
+res media(Ohm)	8.4180399
+errore da media(<0.1)	0.0167873
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  37	  36	 4.2576195
+ 36	  37	  33	  32	 4.2516053
+res media(Ohm)	4.2546124
+errore da media(<0.1)	0.0014136
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  38	  37	 0.3468209
+ 37	  38	  33	  32	 0.3276980
+res media(Ohm)	0.3372594
+errore da media(<0.1)	0.0567010
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  39	  38	 0.3040657
+ 38	  39	  33	  32	 0.3005998
+res media(Ohm)	0.3023328
+errore da media(<0.1)	0.0114640
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  40	  39	 0.1545117
+ 39	  40	  33	  32	 0.1547071
+res media(Ohm)	0.1546094
+errore da media(<0.1)	0.0012636
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  41	  40	 0.0501198	quad rif!
+ 40	  41	  32	  33	 0.3149556
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  42	  41	 0.0742137
+ 41	  42	  33	  32	 0.0768170
+res media(Ohm)	0.0755154
+errore da media(<0.1)	0.0344732
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  43	  42	 0.0307290
+ 42	  43	  33	  32	 0.0279250
+res media(Ohm)	0.0293270
+errore da media(<0.1)	0.0956094
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  44	  43	 0.0172377
+ 43	  44	  33	  32	 0.0177487
+res media(Ohm)	0.0174932
+errore da media(<0.1)	0.0292058
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  45	  44	 0.0107519
+ 44	  45	  33	  32	 0.0111426
+res media(Ohm)	0.0109473
+errore da media(<0.1)	0.0356833
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  45	  46	 0.0154311
+ 45	  46	  32	  33	 0.0152285
+res media(Ohm)	0.0153298
+errore da media(<0.1)	0.0132158
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  46	  47	 0.0193722
+ 46	  47	  32	  33	 0.0192164
+res media(Ohm)	0.0192943
+errore da media(<0.1)	0.0080744
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  47	  48	 0.0070587
+ 47	  48	  32	  33	 0.0057800
+res media(Ohm)	0.0064194
+errore da media(>0.1)	0.1991897
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 32	  33	  48	   1	 0.0133607
+  1	  48	  33	  32	 0.0129013
+res media(Ohm)	0.0131310
+errore da media(<0.1)	0.0349812
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  32	  35	 57.0018082
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  36	  35	 27.8183852
+ 35	  36	  34	  33	 27.7885201
+res media(Ohm)	27.8034526
+errore da media(<0.1)	0.0010742
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  37	  36	 11.8005406
+ 36	  37	  34	  33	 11.6067407
+res media(Ohm)	11.7036407
+errore da media(<0.1)	0.0165589
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  38	  37	 0.9835253
+ 37	  38	  34	  33	 0.9187060
+res media(Ohm)	0.9511156
+errore da media(<0.1)	0.0681508
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  39	  38	 0.8723847
+ 38	  39	  34	  33	 0.8427086
+res media(Ohm)	0.8575467
+errore da media(<0.1)	0.0346058
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  40	  39	 0.4426444
+ 39	  40	  34	  33	 0.4320641
+res media(Ohm)	0.4373542
+errore da media(<0.1)	0.0241915
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  41	  40	 0.1336825
+ 40	  41	  34	  33	 0.1101617
+res media(Ohm)	0.1219221
+errore da media(>0.1)	0.1929159
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  42	  41	 0.1958846
+ 41	  42	  34	  33	 0.1972931
+res media(Ohm)	0.1965888
+errore da media(<0.1)	0.0071649
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  43	  42	 0.0648758
+ 42	  43	  34	  33	 0.0525381
+res media(Ohm)	0.0587070
+errore da media(>0.1)	0.2101567
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  44	  43	 0.0481163
+ 43	  44	  34	  33	 0.0493288
+res media(Ohm)	0.0487226
+errore da media(<0.1)	0.0248849
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  45	  44	 0.0369742
+ 44	  45	  34	  33	 0.0385857
+res media(Ohm)	0.0377800
+errore da media(<0.1)	0.0426563
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  45	  46	 0.0865199
+ 45	  46	  33	  34	 0.0849306
+res media(Ohm)	0.0857253
+errore da media(<0.1)	0.0185396
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  46	  47	 0.1358677
+ 46	  47	  33	  34	 0.1349393
+res media(Ohm)	0.1354035
+errore da media(<0.1)	0.0068567
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	  47	  48	 0.1108069
+ 47	  48	  33	  34	 0.1013853
+res media(Ohm)	0.1060961
+errore da media(<0.1)	0.0888023
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 33	  34	   1	  48	 0.0498388
+  1	  48	  33	  34	 0.0458434
+res media(Ohm)	0.0478411
+errore da media(<0.1)	0.0835136
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  33	  36	 84.6451660
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  37	  36	 33.6308214
+ 36	  37	  35	  34	 33.0651320
+res media(Ohm)	33.3479767
+errore da media(<0.1)	0.0169632
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  38	  37	 2.1330120
+ 37	  38	  35	  34	 2.0020488
+res media(Ohm)	2.0675304
+errore da media(<0.1)	0.0633428
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  39	  38	 1.6782040
+ 38	  39	  35	  34	 1.6164930
+res media(Ohm)	1.6473485
+errore da media(<0.1)	0.0374608
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  40	  39	 0.8076299
+ 39	  40	  35	  34	 0.7842827
+res media(Ohm)	0.7959563
+errore da media(<0.1)	0.0293322
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  41	  40	 0.2564168
+ 40	  41	  35	  34	 0.2243367
+res media(Ohm)	0.2403768
+errore da media(>0.1)	0.1334576
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  42	  41	 0.3351674
+ 41	  42	  35	  34	 0.3394489
+res media(Ohm)	0.3373082
+errore da media(<0.1)	0.0126931
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  43	  42	 0.1244384
+ 42	  43	  35	  34	 0.1054522
+res media(Ohm)	0.1149453
+errore da media(>0.1)	0.1651758
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  44	  43	 0.0819341
+ 43	  44	  35	  34	 0.0840928
+res media(Ohm)	0.0830134
+errore da media(<0.1)	0.0260035
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  45	  44	 0.0581518
+ 44	  45	  35	  34	 0.0601901
+res media(Ohm)	0.0591709
+errore da media(<0.1)	0.0344467
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  45	  46	 0.1016190
+ 45	  46	  34	  35	 0.1044924
+res media(Ohm)	0.1030557
+errore da media(<0.1)	0.0278813
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  46	  47	 0.1484553
+ 46	  47	  34	  35	 0.1555950
+res media(Ohm)	0.1520252
+errore da media(<0.1)	0.0469641
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	  47	  48	 0.0906390
+ 47	  48	  34	  35	 0.0903544
+res media(Ohm)	0.0904967
+errore da media(<0.1)	0.0031448
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 34	  35	   1	  48	 0.0463425
+  1	  48	  34	  35	 0.0504281
+res media(Ohm)	0.0483853
+errore da media(<0.1)	0.0844386
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  34	  37	 49.7471665
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  38	  37	 3.8823672
+ 37	  38	  36	  35	 3.7605137
+res media(Ohm)	3.8214404
+errore da media(<0.1)	0.0318868
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  39	  38	 1.9442843
+ 38	  39	  36	  35	 1.8981186
+res media(Ohm)	1.9212014
+errore da media(<0.1)	0.0240296
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  40	  39	 0.8046470
+ 39	  40	  36	  35	 0.7863716
+res media(Ohm)	0.7955093
+errore da media(<0.1)	0.0229732
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  41	  40	 0.2785355
+ 40	  41	  36	  35	 0.2633206
+res media(Ohm)	0.2709280
+errore da media(<0.1)	0.0561587
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  42	  41	 0.2692859
+ 41	  42	  36	  35	 0.2861793
+res media(Ohm)	0.2777326
+errore da media(<0.1)	0.0608262
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  43	  42	 0.1106611
+ 42	  43	  36	  35	 0.1041049
+res media(Ohm)	0.1073830
+errore da media(<0.1)	0.0610540
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  44	  43	 0.0655817
+ 43	  44	  36	  35	 0.0728501
+res media(Ohm)	0.0692159
+errore da media(>0.1)	0.1050116
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  45	  44	 0.0384075
+ 44	  45	  36	  35	 0.0431053
+res media(Ohm)	0.0407564
+errore da media(>0.1)	0.1152665
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  45	  46	 0.0523565
+ 45	  46	  35	  36	 0.0611437
+res media(Ohm)	0.0567501
+errore da media(>0.1)	0.1548403
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  46	  47	 0.0619459
+ 46	  47	  35	  36	 0.0758272
+res media(Ohm)	0.0688866
+errore da media(>0.1)	0.2015096
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  47	  48	 0.0075533
+ 47	  48	  35	  36	 0.0141272
+res media(Ohm)	0.0108403
+errore da media(>0.1)	0.6064363
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 35	  36	  48	   1	 0.0159962
+  1	  48	  36	  35	 0.0166397
+res media(Ohm)	0.0163179
+errore da media(<0.1)	0.0394338
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  35	  38	 117.3628997
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  39	  38	 39.0511976
+ 38	  39	  37	  36	 38.7428673
+res media(Ohm)	38.8970325
+errore da media(<0.1)	0.0079268
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  40	  39	 11.4294969
+ 39	  40	  37	  36	 11.5066021
+res media(Ohm)	11.4680495
+errore da media(<0.1)	0.0067235
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  41	  40	 5.2615693
+ 40	  41	  37	  36	 4.8503338
+res media(Ohm)	5.0559516
+errore da media(<0.1)	0.0813369
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  42	  41	 3.9725071
+ 41	  42	  37	  36	 3.9831547
+res media(Ohm)	3.9778309
+errore da media(<0.1)	0.0026767
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  43	  42	 2.0978223
+ 42	  43	  37	  36	 1.8835336
+res media(Ohm)	1.9906780
+errore da media(>0.1)	0.1076461
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  44	  43	 0.5718369
+ 43	  44	  37	  36	 0.5767621
+res media(Ohm)	0.5742995
+errore da media(<0.1)	0.0085760
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  45	  44	 0.0403011	quad rif!
+ 44	  45	  36	  37	 0.0639148
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  45	  46	 0.0237778
+ 45	  46	  36	  37	 0.2560318
+res media(Ohm)	0.1399048
+errore da media(>0.1)	1.6600854
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  46	  47	 0.4914695
+ 46	  47	  36	  37	 0.5364064
+res media(Ohm)	0.5139379
+errore da media(<0.1)	0.0874364
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	  47	  48	 0.5413108
+ 47	  48	  36	  37	 0.4185912
+res media(Ohm)	0.4799510
+errore da media(>0.1)	0.2556919
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 36	  37	   1	  48	 1.3108374
+  1	  48	  36	  37	 1.2434547
+res media(Ohm)	1.2771461
+errore da media(<0.1)	0.0527604
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  36	  39	 55.1873463
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  40	  39	 28.3139825
+ 39	  40	  38	  37	 28.2454278
+res media(Ohm)	28.2797051
+errore da media(<0.1)	0.0024242
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  41	  40	 11.1517753
+ 40	  41	  38	  37	 10.6103298
+res media(Ohm)	10.8810525
+errore da media(<0.1)	0.0497604
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  42	  41	 6.1334698
+ 41	  42	  38	  37	 5.9994477
+res media(Ohm)	6.0664588
+errore da media(<0.1)	0.0220923
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  43	  42	 1.5137910
+ 42	  43	  38	  37	 1.4369718
+res media(Ohm)	1.4753814
+errore da media(<0.1)	0.0520674
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  44	  43	 0.4858954
+ 43	  44	  38	  37	 0.4491993
+res media(Ohm)	0.4675474
+errore da media(<0.1)	0.0784863
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  45	  44	 0.2523755
+ 44	  45	  38	  37	 0.2651727
+res media(Ohm)	0.2587741
+errore da media(<0.1)	0.0494530
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  45	  46	 0.0864579	quad rif!
+ 45	  46	  38	  37	 0.0115896
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  47	  46	 0.0492829
+ 46	  47	  38	  37	 0.0642030
+res media(Ohm)	0.0567430
+errore da media(>0.1)	0.2629417
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  48	  47	 0.3236673
+ 47	  48	  38	  37	 0.2537736
+res media(Ohm)	0.2887204
+errore da media(>0.1)	0.2420809
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 37	  38	  48	   1	 0.3022979
+  1	  48	  38	  37	 0.2873430
+res media(Ohm)	0.2948204
+errore da media(<0.1)	0.0507257
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  37	  40	 125.0065794
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  41	  40	 68.8574576
+ 40	  41	  39	  38	 67.6581098
+res media(Ohm)	68.2577837
+errore da media(<0.1)	0.0175709
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  42	  41	 10.7658363
+ 41	  42	  39	  38	 10.4406125
+res media(Ohm)	10.6032244
+errore da media(<0.1)	0.0306722
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  43	  42	 1.5283677
+ 42	  43	  39	  38	 1.5328641
+res media(Ohm)	1.5306159
+errore da media(<0.1)	0.0029376
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  43	  44	 0.1438767
+ 43	  44	  38	  39	 0.0844947
+res media(Ohm)	0.1141857
+errore da media(>0.1)	0.5200480
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  44	  45	 0.5565366
+ 44	  45	  38	  39	 0.4419810
+res media(Ohm)	0.4992588
+errore da media(>0.1)	0.2294515
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  46	  45	 0.5407124
+ 45	  46	  39	  38	 0.3292189
+res media(Ohm)	0.4349657
+errore da media(>0.1)	0.4862303
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  47	  46	 0.3098526
+ 46	  47	  39	  38	 0.2633099
+res media(Ohm)	0.2865813
+errore da media(>0.1)	0.1624069
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	  47	  48	 0.0165019	quad rif!
+ 47	  48	  39	  38	 0.0732159
+PROBLEMA POLARITA' RECIPROCO!
+  A	   B	   M	   N	 Res(Ohm)
+ 38	  39	   1	  48	 0.4276196
+  1	  48	  38	  39	 0.2305582
+res media(Ohm)	0.3290889
+errore da media(>0.1)	0.5988089
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  38	  41	 50.6106835
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  42	  41	 8.5131832
+ 41	  42	  40	  39	 8.8139249
+res media(Ohm)	8.6635541
+errore da media(<0.1)	0.0347134
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  43	  42	 0.3717390
+ 42	  43	  40	  39	 0.2866480
+res media(Ohm)	0.3291935
+errore da media(>0.1)	0.2584832
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  43	  44	 0.2843541
+ 43	  44	  39	  40	 0.2506524
+res media(Ohm)	0.2675032
+errore da media(>0.1)	0.1259859
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  44	  45	 0.3332192
+ 44	  45	  39	  40	 0.3138360
+res media(Ohm)	0.3235276
+errore da media(<0.1)	0.0599120
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  46	  45	 0.3680106
+ 45	  46	  40	  39	 0.2227733
+res media(Ohm)	0.2953920
+errore da media(>0.1)	0.4916763
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  47	  46	 0.1850564
+ 46	  47	  40	  39	 0.1672900
+res media(Ohm)	0.1761732
+errore da media(>0.1)	0.1008462
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	  47	  48	 0.1891376
+ 47	  48	  39	  40	 0.1922878
+res media(Ohm)	0.1907127
+errore da media(<0.1)	0.0165184
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 39	  40	   1	  48	 0.3493031
+  1	  48	  39	  40	 0.3720931
+res media(Ohm)	0.3606981
+errore da media(<0.1)	0.0631832
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  39	  42	 100.4105297
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  43	  42	 13.8445200
+ 42	  43	  41	  40	 12.8441746
+res media(Ohm)	13.3443473
+errore da media(<0.1)	0.0749640
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  44	  43	 1.7105137
+ 43	  44	  41	  40	 1.4567910
+res media(Ohm)	1.5836524
+errore da media(>0.1)	0.1602137
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  45	  44	 1.0692663
+ 44	  45	  41	  40	 0.9679552
+res media(Ohm)	1.0186107
+errore da media(<0.1)	0.0994601
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  45	  46	 0.5083249
+ 45	  46	  40	  41	 0.3299888
+res media(Ohm)	0.4191569
+errore da media(>0.1)	0.4254638
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  47	  46	 0.0098665
+ 46	  47	  41	  40	 0.0639228
+res media(Ohm)	0.0368946
+errore da media(>0.1)	1.4651549
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  48	  47	 0.2372309
+ 47	  48	  41	  40	 0.1613056
+res media(Ohm)	0.1992682
+errore da media(>0.1)	0.3810209
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 40	  41	  48	   1	 0.4148792
+  1	  48	  41	  40	 0.2616378
+res media(Ohm)	0.3382585
+errore da media(>0.1)	0.4530303
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  44	  43	 6.3269440
+ 43	  44	  42	  41	 6.3675645
+res media(Ohm)	6.3472542
+errore da media(<0.1)	0.0063997
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  45	  44	 1.4162408
+ 44	  45	  42	  41	 1.6471304
+res media(Ohm)	1.5316856
+errore da media(>0.1)	0.1507421
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  46	  45	 0.1760621
+ 45	  46	  42	  41	 0.1537231
+res media(Ohm)	0.1648926
+errore da media(>0.1)	0.1354757
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  46	  47	 0.2156764
+ 46	  47	  41	  42	 0.0357816
+res media(Ohm)	0.1257290
+errore da media(>0.1)	1.4308133
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  48	  47	 0.3138434
+ 47	  48	  42	  41	 0.3549062
+res media(Ohm)	0.3343748
+errore da media(>0.1)	0.1228046
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 41	  42	  48	   1	 0.0446941
+  1	  48	  42	  41	 0.3091420
+res media(Ohm)	0.1769180
+errore da media(>0.1)	1.4947483
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 42	  43	  45	  44	 16.6998045
+ 44	  45	  43	  42	 16.7962596
+res media(Ohm)	16.7480320
+errore da media(<0.1)	0.0057592
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 42	  43	  46	  45	 0.0061171
+ 45	  46	  43	  42	 0.1376848
+res media(Ohm)	0.0719010
+errore da media(>0.1)	1.8298460
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 42	  43	  46	  47	 0.0035959
+ 46	  47	  42	  43	 0.1047557
+res media(Ohm)	0.0541758
+errore da media(>0.1)	1.8672509
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 42	  43	  48	  47	 0.9850121
+ 47	  48	  43	  42	 1.0059625
+res media(Ohm)	0.9954873
+errore da media(<0.1)	0.0210453
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 42	  43	   1	  48	 0.4996486
+  1	  48	  42	  43	 0.6144109
+res media(Ohm)	0.5570297
+errore da media(>0.1)	0.2060254
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 43	  44	  42	  45	 20.1260745
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 43	  44	  46	  45	 6.0242693
+ 45	  46	  44	  43	 5.6561798
+res media(Ohm)	5.8402246
+errore da media(<0.1)	0.0630266
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 43	  44	  47	  46	 1.6203438
+ 46	  47	  44	  43	 1.4623338
+res media(Ohm)	1.5413388
+errore da media(>0.1)	0.1025148
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 43	  44	  48	  47	 1.8987106
+ 47	  48	  44	  43	 1.9563717
+res media(Ohm)	1.9275411
+errore da media(<0.1)	0.0299143
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 43	  44	   1	  48	 1.4219484
+  1	  48	  43	  44	 1.2739088
+res media(Ohm)	1.3479286
+errore da media(>0.1)	0.1098275
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 44	  45	  43	  46	 55.9630479
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 44	  45	  47	  46	 25.9499079
+ 46	  47	  45	  44	 24.9716948
+res media(Ohm)	25.4608013
+errore da media(<0.1)	0.0384204
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 44	  45	  48	  47	 7.5075260
+ 47	  48	  45	  44	 7.3310445
+res media(Ohm)	7.4192852
+errore da media(<0.1)	0.0237869
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 44	  45	   1	  48	 2.8682171
+  1	  48	  44	  45	 2.5406613
+res media(Ohm)	2.7044392
+errore da media(>0.1)	0.1211178
+SCARTATO!
+  A	   B	   M	   N	 Res(Ohm)
+ 45	  46	  44	  47	 57.1270789
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 45	  46	  48	  47	 36.4356077
+ 47	  48	  46	  45	 35.6900458
+res media(Ohm)	36.0628267
+errore da media(<0.1)	0.0206740
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 45	  46	   1	  48	 10.7782516
+  1	  48	  45	  46	 10.5436434
+res media(Ohm)	10.6609475
+errore da media(<0.1)	0.0220063
+OK!
+  A	   B	   M	   N	 Res(Ohm)
+ 46	  47	  45	   1	 32.8925511
+NO RECIPROCI!!
+  A	   B	   M	   N	 Res(Ohm)
+ 46	  47	   1	  48	 40.3618985
+  1	  48	  46	  47	 40.1766975
+res media(Ohm)	40.2692980
+errore da media(<0.1)	0.0045991
+OK!
+
+RIEPILOGO
+
+su un totale di 2195	misure:
+misure con V>0.001000000	:   0	0.00%
+
+su un totale di 2195	misure V sopra soglia:
+reciproci con polarit? giusta: 2088	95.13%
+misure senza reciproco:  35	1.59%
+misure con solo duplicati o problemi polarit?:  72	3.28%
+
+su un totale di 1044	misure con reciproco giusto:
+misure salvate: 618	59.20%
+misure scartate: 426	40.80%
+
