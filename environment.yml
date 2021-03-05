@@ -1,0 +1,10 @@
+channels:
+- conda-forge
+- gimli
+- defaults
+dependencies:
+- matplotlib
+- pygimli
+- pybert
+- seaborn
+- pyvista
